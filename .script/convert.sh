@@ -14,6 +14,10 @@ if [ ! -d "$directory/32" ]; then
   # Create the directory for 32x32 images
   mkdir -p "$directory/32"
 fi
+if [ ! -d "$directory/64" ]; then
+  # Create the directory for 64x64 images
+  mkdir -p "$directory/64"
+fi
 
 process_image() {
   local input_file="$1"
@@ -45,7 +49,7 @@ do
   output_file="${input_file#src/}"
 
   # Process for 64x64 size
-  process_image "$input_file" "$output_file" 64
+  process_image "$input_file" "$output_file" 128
 
   input_size=$(stat -c%s "$input_file")
   input_size_kb=$((input_size / 1024))
@@ -62,6 +66,15 @@ do
   output_size_kb_32=$((output_size_32 / 1024))
 
   echo "Processed $output_file_32, input size: ${input_size_kb}KB, output size: ${output_size_kb_32}KB."
+
+  # Process for 64x64 size
+  output_file_64="$directory/64/${input_file#src/$directory/}"
+  process_image "$input_file" "$output_file_64" 64
+
+  output_size_64=$(stat -c%s "$output_file_64")
+  output_size_kb_64=$((output_size_64 / 1024))
+
+  echo "Processed $output_file_64, input size: ${input_size_kb}KB, output size: ${output_size_kb_64}KB."
 done
 
 echo "All images in $directory have been processed."
