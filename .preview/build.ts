@@ -2,7 +2,8 @@ import fs from "fs";
 
 const tokens = fs.readdirSync("tokens");
 
-const EXCLUDE = ["dai.png", "kdk.png", "tether.png"];
+const EXCLUDE = ["dai.png", "kdk.png", "tether.png", "yeet.png"];
+
 const buildHtml = (directory: string, filename: string) => {
     if (EXCLUDE.includes(filename)) {
         return;
