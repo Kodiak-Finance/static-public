@@ -25,7 +25,7 @@ process_image() {
   local size="$3"
 
   convert "$input_file" \
-      -resize "${size}x${size}" \
+      -resize "${size}x${size}^" \
       -gravity center \
       -extent "${size}x${size}" \
       -background none \
