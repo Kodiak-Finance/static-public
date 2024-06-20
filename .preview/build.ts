@@ -5,7 +5,7 @@ const tokens = fs.readdirSync("tokens");
 const EXCLUDE = ["dai.png", "kdk.png", "tether.png", "yeet.png"];
 
 const buildHtml = (directory: string, filename: string) => {
-    if (EXCLUDE.includes(filename)) {
+    if (EXCLUDE.includes(filename) || !filename.endsWith(".png")) {
         return;
     }
     const kodiakId = `https://static.kodiak.finance/${directory}/${filename}`;
