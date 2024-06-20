@@ -21,7 +21,7 @@ do
 
   output_file="${input_file#src/}"
 
-  magick "$input_file" \
+  convert "$input_file" \
       -resize 64x64^ \
       -gravity center \
       -extent 64x64 \
