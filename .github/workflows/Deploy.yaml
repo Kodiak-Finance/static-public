@@ -21,6 +21,11 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-east-1
 
+    - name: Convert tokens
+      run: |
+        sudo apt-get install imagemagick
+        ./.script/convert.sh
+        
     - name: Build index.html
       run: |
         bun run .preview/build.ts
