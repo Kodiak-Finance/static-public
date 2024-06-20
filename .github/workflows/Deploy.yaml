@@ -21,6 +21,6 @@ jobs:
 
     - name: Sync S3 bucket
       run: |
-        aws s3 sync . s3://kodiak-static --delete
+        aws s3 sync . s3://kodiak-static --delete --exclude ".*"
       env:
         S3_BUCKET_NAME: kodiak-static
