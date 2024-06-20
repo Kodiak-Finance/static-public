@@ -28,6 +28,7 @@ do
       -background none \
       -alpha set \
       -vignette 0x0 \
+      -strip \
       "$output_file"
 
 
