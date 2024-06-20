@@ -31,8 +31,12 @@ do
       -strip \
       "$output_file"
 
+  input_size=$(stat -c%s "$input_file")
+  input_size_kb=$((input_size / 1024))
+  output_size=$(stat -c%s "$output_file")
+  output_size_kb=$((output_size / 1024))
 
-  echo "Processed and replaced $input_file."
+  echo "Processed $output_file, input size: ${input_size_kb}KB, output size: ${output_size_kb}KB."
 done
 
 echo "All images in $directory have been processed."
