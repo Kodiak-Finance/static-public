@@ -17,8 +17,6 @@ do
     echo "No PNG files found in $directory."
     exit 1
   fi
-  echo $input_file;
-
   output_file="${input_file#src/}"
 
   convert "$input_file" \
