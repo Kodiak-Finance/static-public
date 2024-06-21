@@ -23,7 +23,7 @@ jobs:
 
     - name: Convert tokens
       run: |
-        sudo apt-get install imagemagick
+        sudo apt-get install ffmpeg
         ./.script/convert.sh
         
     - name: Build index.html

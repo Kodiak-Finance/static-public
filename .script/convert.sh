@@ -23,20 +23,14 @@ process_image() {
   local input_file="$1"
   local output_file="$2"
   local size="$3"
-
-  convert "$input_file" \
-      -resize "${size}x${size}^" \
-      -gravity center \
-      -alpha set \
-      -background none \
-      -quality 100 \
-      -vignette 0x0+0+0 \
-      -strip \
-      "$output_file"
+  
+  ffmpeg -i "$input_file" -i ".script/mask_$size.png" -filter_complex "[0]scale=$size:$size[ava];[1]alphaextract[alfa];[ava][alfa]alphamerge" -y "$output_file"
 
   if [ $? -ne 0 ]; then
     echo "Error processing $input_file"
     exit 1
+  else
+    echo "Processed $input_file to $output_file."
   fi
 }
 
