@@ -19,7 +19,6 @@ if [ ! -d "$directory/64" ]; then
   mkdir -p "$directory/64"
 fi
 
-#       -vignette 0x0+0+0 \
 process_image() {
   local input_file="$1"
   local output_file="$2"
@@ -28,9 +27,10 @@ process_image() {
   convert "$input_file" \
       -resize "${size}x${size}^" \
       -gravity center \
-      -extent "${size}x${size}" \
-      -background none \
       -alpha set \
+      -background none \
+      -quality 100 \
+      -vignette 0x0+0+0 \
       -strip \
       "$output_file"
 
