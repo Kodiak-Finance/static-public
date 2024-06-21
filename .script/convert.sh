@@ -30,7 +30,7 @@ process_image() {
       -extent "${size}x${size}" \
       -background none \
       -alpha set \
-      -vignette 0x0 \
+      -vignette 0x0+0+0 \
       -strip \
       "$output_file"
 
