@@ -8,7 +8,7 @@ const buildHtml = (directory: string, filename: string) => {
     if (EXCLUDE.includes(filename) || !filename.endsWith(".png")) {
         return;
     }
-    const kodiakId = `https://static.kodiak.finance/${directory}/32/${filename}`;
+    const kodiakId = `https://static.kodiak.finance/${directory}/${filename}`;
     const berachainId = `https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/${filename}`;
     return `
         <div class="i_w">
