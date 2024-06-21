@@ -24,7 +24,7 @@ process_image() {
   local output_file="$2"
   local size="$3"
   
-  ffmpeg -i "$input_file" -i ".script/mask_$size.png" -filter_complex "[0]scale=$size:$size[ava];[1]alphaextract[alfa];[ava][alfa]alphamerge" -y "$output_file"
+  ffmpeg -i "$input_file" -vf scale=$size:$size -y "$output_file" 2> /dev/null
 
   if [ $? -ne 0 ]; then
     echo "Error processing $input_file"
