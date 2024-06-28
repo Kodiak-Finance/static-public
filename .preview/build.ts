@@ -2,10 +2,10 @@ import fs from "fs";
 
 const tokens = fs.readdirSync("tokens");
 
-const EXCLUDE = ["dai.png", "kdk.png", "tether.png", "yeet.png"];
+const INCLUDE = ["usdc.png", "honey.png", "btc.png", "eth.png", "bgt.png", "bera.png", "wbera.png"];
 
 const buildHtml = (directory: string, filename: string) => {
-    if (EXCLUDE.includes(filename) || !filename.endsWith(".png")) {
+    if (!INCLUDE.includes(filename) || !filename.endsWith(".png")) {
         return;
     }
     const kodiakId = `https://static.kodiak.finance/${directory}/${filename}`;
