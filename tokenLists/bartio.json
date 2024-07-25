@@ -1,0 +1,88 @@
+{
+  "name": "Kodiak bArtio Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "bartio",
+    "kodiak"
+  ],
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 80084,
+      "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41",
+      "symbol": "YEET",
+      "name": "$YEET",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/yeet.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x277aadbd9ea3db8fe9ea40ea6e09f6203724bdae",
+      "symbol": "DIRAC",
+      "name": "Dirac Finance Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/dirac.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xa0525273423537BC76825B4389F3bAeC1968f83F",
+      "symbol": "JNKY",
+      "name": "Junky Ursas LFG",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/junky.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x1E94a8ceE3E5bD97e0cD933B8F8537fC3Db4FcE7",
+      "symbol": "BEARTIC",
+      "name": "Beartic Token",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/OFaW2Fc_d.webp?maxwidth=760&fidelity=grand",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x8F22CD288fa62F5F198ba03fCdb3829DD7C0cbb8",
+      "symbol": "CRACK",
+      "name": "Crack",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/crack.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x355bb949d80331516Fc7F4CF81229021187d67d2",
+      "symbol": "stdv4tnt",
+      "name": "stdv4tnt",
+      "decimals": 18,
+      "logoURI": "https://dydx.exchange/icon.svg",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x6123100b681e04411b12cd111F080Bc4D3c62086",
+      "symbol": "COKE",
+      "name": "BonziWifCoke",
+      "decimals": 8,
+      "logoURI": "https://static.kodiak.finance/tokens/coke.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xdfdaeca74bb2d37204171ce05fe6ba6ae970d844",
+      "symbol": "fBERA",
+      "name": "Fake Bera",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/fbera.png",
+      "tags": []
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
