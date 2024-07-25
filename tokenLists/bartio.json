@@ -78,6 +78,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/fbera.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x343499E6315f7d3473a12aaf660Ac02b5739C382",
+      "symbol": "GOLD",
+      "name": "Grand Conquest Gold",
+      "decimals": 18,
+      "logoURI": "https://game.grandconquest.com/game/conquest/icons/gold.svg",
+      "tags": []
     }
   ],
   "version": {
