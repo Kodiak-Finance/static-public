@@ -6,7 +6,9 @@ When you want to bring your token into the codiac interface follow these steps:
 
 1. Create a fork of this repository, work further in your own version of it
 2. Add your logo to `src/tokens` in png format, use only lower case in the file name
-3. Add the appropriate entry to `tokenLists/bartio.json`
+3. Add the appropriate entry to `tokenLists/bartio.json`. Use the template you'll find below
+4. Send this Pull Requets with the name "Add {SYMBOL} token." to branch `main`
+
 ```json
 {
   "chainId": 80084,
@@ -18,5 +20,4 @@ When you want to bring your token into the codiac interface follow these steps:
   "tags": []
 }
 ```
-‼️ Do not change the logoURI domain, only replace the name of your new file that you added in the last step.
-4. Send this Pull Requets with the name "Add {SYMBOL} token." to branch `main`
+‼️ Do not change the `logoURI` domain, only replace the name of your new file that you added in the last step.
