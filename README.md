@@ -2,7 +2,7 @@
 Static content for Kodiak infrastructure
 
 ### Contributing
-When you want to bring your token into the codiac interface follow these steps:
+When you want to bring your token into the kodiak interface follow these steps:
 
 1. Create a fork of this repository, work further in your own version of it
 2. Add your logo to `src/tokens` in png format, use only lower case in the file name
