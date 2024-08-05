@@ -115,6 +115,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/spell.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xE1078624088E8Fa43073f0CcDC5DB5E374B2dC64",
+      "symbol": "BEAVER"
+      "name": "BEAVER"
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/beaver.jpg",
+      "tags": []
     }
   ],
   "version": {
