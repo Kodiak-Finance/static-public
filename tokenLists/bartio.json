@@ -97,10 +97,28 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/obero.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x08B918dD18E087893bb9d711d9E0BBaA7a63Ef63",
+      "symbol": "MIM",
+      "name": "Magic Internet Money",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mim.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x802762e604CE08a79DA2BA809281D727A690Fa0d",
+      "symbol": "SPELL",
+      "name": "SPELL Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/spell.png",
+      "tags": []
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
