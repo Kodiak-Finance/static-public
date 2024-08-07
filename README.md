@@ -21,3 +21,5 @@ When you want to bring your token into the kodiak interface follow these steps:
 }
 ```
 ‼️ Do not change the `logoURI` domain, only replace the name of your new file that you added in the last step.
+
+‼️ The file name must be in lower case and in PNG format 
