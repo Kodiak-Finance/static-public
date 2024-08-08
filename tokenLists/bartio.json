@@ -115,10 +115,19 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/spell.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xE1F167CDE04d5d0F8d096957b3A23a7005618976",
+      "symbol": "mPumpBTC",
+      "name": "mPumpBTC",
+      "decimals": 8,
+      "logoURI": "https://static.kodiak.finance/tokens/pumpbtc.png",
+      "tags": []
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
