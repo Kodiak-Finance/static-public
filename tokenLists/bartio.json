@@ -124,6 +124,15 @@
       "decimals": 8,
       "logoURI": "https://static.kodiak.finance/tokens/pumpbtc.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xf5AFCF50006944d17226978e594D4D25f4f92B40",
+      "symbol": "NECT",
+      "name": "NECTAR",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nectar.png",
+      "tags": []
     }
   ],
   "version": {
