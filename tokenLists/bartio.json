@@ -133,10 +133,19 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/nectar.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xa591eef221369321De76d958dC023936Fb39B26A",
+      "symbol": "POLLEN",
+      "name": "Pollen Governance",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nectar.png",
+      "tags": []
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }
