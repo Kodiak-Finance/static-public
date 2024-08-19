@@ -140,12 +140,12 @@
       "symbol": "POLLEN",
       "name": "Pollen Governance",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/nectar.png",
+      "logoURI": "https://static.kodiak.finance/tokens/pollen.png",
       "tags": []
     }
   ],
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
     "patch": 0
   }
