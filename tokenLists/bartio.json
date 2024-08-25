@@ -142,6 +142,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/pollen.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xF7597A5Ede401aD7b27FCCebB95B2f266D30fdbb",
+      "symbol": "VODKA",
+      "name": "VODKA",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/vodka.png",
+      "tags": []
     }
   ],
   "version": {
