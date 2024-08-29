@@ -142,6 +142,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/pollen.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x46efc86f0d7455f135cc9df501673739d513e982",
+      "symbol": "iBGT",
+      "name": "Infrared BGT",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ibgt.png",
+      "tags": []
     }
   ],
   "version": {
