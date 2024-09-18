@@ -151,6 +151,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/ibgt.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x56549D4adBf23f7AfBeE52B6bc51CD1207D9923d",
+      "symbol": "MW",
+      "name": "Mimble Wimble DAO",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mimblewimble.png",
+      "tags": []
     }
   ],
   "version": {
