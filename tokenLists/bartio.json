@@ -151,6 +151,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/ibgt.png",
       "tags": []
+    },
+    {
+      "chaindId": 80084,
+      "address": "0x9b287acF1bf9cE594f7792276EF2D2F9c05F01FA",
+      "symbol": "PERI",
+      "name": "Mimi PERI",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/peri.png",
+      "tags": []
     }
   ],
   "version": {
