@@ -154,16 +154,25 @@
     },
     {
       "chainId": 80084,
+      "address": "0x3A1A3700f74a63e6C647113325019309FdD02f83",
+      "symbol": "BDEG",
+      "name": "Bera Degens",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bdeg.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
       "address": "0xd50A06289ff3bB826cdCabEa03D6731DA16CA85a",
       "symbol": "BUDS",
       "name": "Bakeland Buds token",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/Buds.png",
+      "logoURI": "https://static.kodiak.finance/tokens/buds.png",
       "tags": []
     }
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 0
   }
