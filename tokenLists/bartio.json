@@ -154,6 +154,15 @@
     },
     {
       "chainId": 80084,
+      "address": "0x3A1A3700f74a63e6C647113325019309FdD02f83",
+      "symbol": "BDEG",
+      "name": "Bera Degens",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bdeg.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
       "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6",
       "symbol": "BUDS",
       "name": "Buds",
@@ -163,7 +172,7 @@
     }
   ],
   "version": {
-    "major": 8,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
