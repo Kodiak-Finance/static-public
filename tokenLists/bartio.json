@@ -167,7 +167,16 @@
       "symbol": "BUDS",
       "name": "Buds",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/Buds.png",
+      "logoURI": "https://static.kodiak.finance/tokens/buds.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x0ae9d176d3156835b501C530Faee28a51a43c9a6",
+      "symbol": "BRLY",
+      "name": "Berally",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/brly.png",
       "tags": []
     }
   ],
