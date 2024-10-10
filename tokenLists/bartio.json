@@ -163,9 +163,9 @@
     },
     {
       "chainId": 80084,
-      "address": "0xd50A06289ff3bB826cdCabEa03D6731DA16CA85a",
+      "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6",
       "symbol": "BUDS",
-      "name": "Bakeland Buds token",
+      "name": "Buds",
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/buds.png",
       "tags": []
