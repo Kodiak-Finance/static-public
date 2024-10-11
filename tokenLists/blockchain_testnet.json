@@ -16,7 +16,7 @@
       "symbol": "WBITCOIN",
       "name": "Wrapped BITCOIN",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/wbera.png",
+      "logoURI": "https://raw.githubusercontent.com/Kodiak-Finance/static-public/refs/heads/blockchain/src/tokens/bitcoin.png",
       "tags": []
     },
     {
