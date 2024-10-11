@@ -1,0 +1,46 @@
+{
+  "name": "Kodiak Blockchain Testnet Token List",
+  "timestamp": "2024-07-25T21:28:05.214Z",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "blockchain_testnet",
+    "kodiak"
+  ],
+  "tags": {
+    
+  },
+  "tokens": [
+    {
+      "chainId": 6231991,
+      "address": "0xB81888b51F6BBCA93e09c7f1C699aF04a14Daed7",
+      "symbol": "WBITCOIN",
+      "name": "Wrapped BITCOIN",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wbera.png",
+      "tags": []
+    },
+    {
+      "chainId": 6231991,
+      "address": "0x064097EbcbFca546E5Fc6a19559EA1b90262E9D1",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/honey.png",
+      "tags": []
+    },
+    {
+      "chainId": 6231991,
+      "address": "0x88a348f391D8436325f300C345F9A1B1657b1921",
+      "symbol": "BERA",
+      "name": "Bera",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bera.png",
+      "tags": []
+    },
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
