@@ -178,10 +178,19 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/brly.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xF042c01eE84b73C1bA72957Bfb54929393B6410D",
+      "symbol": "MEAD",
+      "name": "Roots Stable",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mead.png",
+      "tags": []
     }
   ],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   }
