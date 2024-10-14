@@ -21,7 +21,7 @@
     },
     {
       "chainId": 6231991,
-      "address": "0x064097EbcbFca546E5Fc6a19559EA1b90262E9D1",
+      "address": "0x843797d0A118F960EC5A3396b93c25918d82a5f1",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -30,16 +30,25 @@
     },
     {
       "chainId": 6231991,
-      "address": "0x88a348f391D8436325f300C345F9A1B1657b1921",
+      "address": "0x01ABb03e79c5E090d9621fCea2A93770aaB88D53",
       "symbol": "BERA",
       "name": "Bera",
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/bera.png",
       "tags": []
+    },
+    {
+      "chainId": 6231991,
+      "address": "0x1E9cc7764D7974D2F15f6B4AD3DD1f2e47892fBF",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/weth.png",
+      "tags": []
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
