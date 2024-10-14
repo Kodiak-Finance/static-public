@@ -193,13 +193,13 @@
       "address": "0x16221CaD160b441db008eF6DA2d3d89a32A05859",
       "symbol": "uniBTC",
       "name": "uniBTC",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://static.kodiak.finance/tokens/unibtc.png",
       "tags": []
     }
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 0
   }
