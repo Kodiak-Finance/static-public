@@ -43,12 +43,12 @@
       "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/weth.png",
+      "logoURI": "https://static.kodiak.finance/tokens/eth.png",
       "tags": []
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
