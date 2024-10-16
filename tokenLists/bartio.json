@@ -205,15 +205,6 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/arbera.png",
       "tags": []
-    },
-    {
-      "chainId": 80084,
-      "address": "0x5Ddc1f3DeD22365ae4acD612744c5B0255529B7a",
-      "symbol": "brARBERA",
-      "name": "ARBERA Bodiak Den",
-      "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/brarbera.png",
-      "tags": []
     }
   ],
   "version": {
