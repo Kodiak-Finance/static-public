@@ -1,0 +1,55 @@
+{
+  "name": "Kodiak Blockchain Token List",
+  "timestamp": "2024-07-25T21:28:05.214Z",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "blockchain_testnet",
+    "kodiak"
+  ],
+  "tags": {
+    
+  },
+  "tokens": [
+    {
+      "chainId": 6231991,
+      "address": "0xB81888b51F6BBCA93e09c7f1C699aF04a14Daed7",
+      "symbol": "WBITCOIN",
+      "name": "Wrapped BITCOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Kodiak-Finance/static-public/refs/heads/blockchain/src/tokens/bitcoin.png",
+      "tags": []
+    },
+    {
+      "chainId": 6231991,
+      "address": "0x843797d0A118F960EC5A3396b93c25918d82a5f1",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/honey.png",
+      "tags": []
+    },
+    {
+      "chainId": 6231991,
+      "address": "0x01ABb03e79c5E090d9621fCea2A93770aaB88D53",
+      "symbol": "BERA",
+      "name": "Bera",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bera.png",
+      "tags": []
+    },
+    {
+      "chainId": 6231991,
+      "address": "0x1E9cc7764D7974D2F15f6B4AD3DD1f2e47892fBF",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/eth.png",
+      "tags": []
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  }
+}
