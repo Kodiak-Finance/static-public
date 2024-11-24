@@ -214,7 +214,17 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/bura.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xb18CEC4160E5310e79AEf0d06a8df223A35599cD",
+      "symbol": "tTERP",
+      "name": "tTERP",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/tTERP.png",
+      "tags": []
     }
+    
   ],
   "version": {
     "major": 15,
