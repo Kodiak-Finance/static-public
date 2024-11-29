@@ -214,6 +214,24 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/bura.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x5a9125247d732D84240FF8Ed48DE69dE7290A840",
+      "symbol": "STONE",
+      "name": "StakeStone Ether",
+      "decimals": 18,
+      "logoURI": "https://app.stakestone.io/static/media/stone.119e5992106964adb4e470409dc26cd6.svg",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xf5d89123e801E9D8B6B6a04c11b4268977c14130",
+      "symbol": "SBTC",
+      "name": "StakeStone Bitcoin",
+      "decimals": 18,
+      "logoURI": "https://app.stakestone.io/static/media/ssBTC.44034be2328993640a34730947175502.svg",
+      "tags": []
     }
   ],
   "version": {
