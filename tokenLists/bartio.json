@@ -221,7 +221,7 @@
       "symbol": "STONE",
       "name": "StakeStone Ether",
       "decimals": 18,
-      "logoURI": "https://app.stakestone.io/static/media/stone.119e5992106964adb4e470409dc26cd6.svg",
+      "logoURI": "https://static.kodiak.finance/tokens/stone.png",
       "tags": []
     },
     {
@@ -230,12 +230,21 @@
       "symbol": "SBTC",
       "name": "StakeStone Bitcoin",
       "decimals": 18,
-      "logoURI": "https://app.stakestone.io/static/media/ssBTC.44034be2328993640a34730947175502.svg",
+      "logoURI": "https://static.kodiak.finance/tokens/sbtc.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x833DcBE1C5A3438B5849079735d166ba07287636",
+      "symbol": "GOLD.S3",
+      "name": "Grand Conquest Gold (S3)",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/golds3.png",
       "tags": []
     }
   ],
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 0
   }
