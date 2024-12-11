@@ -12,7 +12,7 @@
       "chainId": 80084,
       "address": "0x97576e088f0d05EF68cac2EEc63d017FE90952a0",
       "symbol": "OVL",
-      "name": "$OVL",
+      "name": "Overlay",
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/overlay.png",
       "tags": []
