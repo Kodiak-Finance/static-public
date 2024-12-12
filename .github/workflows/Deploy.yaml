@@ -23,6 +23,7 @@ jobs:
 
     - name: Convert tokens
       run: |
+        sudo apt-get update
         sudo apt-get install ffmpeg
         ./.script/convert.sh
         
