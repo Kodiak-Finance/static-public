@@ -250,6 +250,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/golds3.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x4844423484917838AF84bE5FF81729eA62C22012",
+      "symbol": "YEET.new",
+      "name": "YEET (new)",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/yeet.png",
+      "tags": []
     }
   ],
   "version": {
