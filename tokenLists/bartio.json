@@ -253,7 +253,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x4844423484917838AF84bE5FF81729eA62C22012",
+      "address": "0x8c245484890a61Eb2d1F81114b1a7216dCe2752b",
       "symbol": "YEET.new",
       "name": "YEET (new)",
       "decimals": 18,
@@ -262,7 +262,7 @@
     }
   ],
   "version": {
-    "major": 19,
+    "major": 20,
     "minor": 0,
     "patch": 0
   }
