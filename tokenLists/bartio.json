@@ -259,6 +259,24 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/yeet.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x1cF0e51005971c5B78b4A8feE419832CFCCD8cf9",
+      "symbol": "SolvBTC",
+      "name": "Solv BTC",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/solvbtc.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xB4618618b6Fcb61b72feD991AdcC344f43EE57Ad",
+      "symbol": "SolvBTC.BBN",
+      "name": "SolvBTC Babylon",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/solvbtcbbn.png",
+      "tags": []
     }
   ],
   "version": {
