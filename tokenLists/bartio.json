@@ -2,10 +2,7 @@
   "name": "Kodiak bArtio Token List",
   "timestamp": "2024-07-25T21:28:05.214Z",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": [
-    "bartio",
-    "kodiak"
-  ],
+  "keywords": ["bartio", "kodiak"],
   "tags": {},
   "tokens": [
     {
@@ -258,6 +255,15 @@
       "name": "YEET (new)",
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/yeet.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xd437095a7aC009dD61036c693d9D77a6B97BF6A9",
+      "symbol": "SUGAR",
+      "name": "Sugar",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sugar.png",
       "tags": []
     }
   ],
