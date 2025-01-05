@@ -19,6 +19,15 @@
     },
     {
       "chainId": 80084,
+      "address": "0xdFddBCEc833330788eC148BBEF624C6527846Ef0",
+      "symbol": "WAGYU",
+      "name": "WAGYU",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wagyu.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
       "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41",
       "symbol": "YEET",
       "name": "$YEET",
