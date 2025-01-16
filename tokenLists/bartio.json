@@ -265,6 +265,24 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/sugar.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0xc3D7F1F91a77618C959f8114422af4b3d70b2B4C",
+      "symbol": "D8XMOCKUSD",
+      "name": "D8X MockUSD",
+      "decimals": 6,
+      "logoURI": "https://static.kodiak.finance/tokens/mockusd.png",
+      "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x3E6Ed0430B872599BC7b2E1c9833B8f1552b5518",
+      "symbol": "D8XMOCKUSDT",
+      "name": "D8X MockUSDT",
+      "decimals": 6,
+      "logoURI": "https://static.kodiak.finance/tokens/mockusdt.png",
+      "tags": []
     }
   ],
   "version": {
