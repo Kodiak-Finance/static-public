@@ -1,5 +1,5 @@
 {
-  "name": "Kodiak Berachain Mainnet Default Token List",
+  "name": "Kodiak Berachain Default List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     ""
@@ -76,7 +76,7 @@
   ],
   "timestamp": "2025-02-07T00:00:00Z",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 1
   }
