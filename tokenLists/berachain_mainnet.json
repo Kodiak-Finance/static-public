@@ -73,10 +73,11 @@
   ,{"chainId": 80094, "address": "0x85468a0CB26B5Fc1F2B7B7BA3aee07F073dff709", "symbol": "GODL", "name": "Grand Conquest Gold", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/golds3.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7", "symbol": "RAMEN", "name": "Ramen", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ramen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142", "symbol": "YEET", "name": "YEET", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/yeet.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x6BAd2A58927198F8D39A90625699c2A3c9bDd4ce", "symbol": "BBLAST", "name": "Blast on Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bblast.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-02-07T00:00:00Z",
+  "timestamp": "2025-02-10T00:00:00Z",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 1
   }
