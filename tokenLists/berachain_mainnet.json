@@ -73,6 +73,7 @@
   ,{"chainId": 80094, "address": "0x85468a0CB26B5Fc1F2B7B7BA3aee07F073dff709", "symbol": "GODL", "name": "Grand Conquest Gold", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/golds3.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7", "symbol": "RAMEN", "name": "Ramen", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ramen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142", "symbol": "YEET", "name": "YEET", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/yeet.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21", "symbol": "PLUG", "name": "Beraplug", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plug.png", "tags": ["eco"]}
   ],
   "timestamp": "2025-02-07T00:00:00Z",
   "version": {
