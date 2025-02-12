@@ -265,6 +265,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/sugar.png",
       "tags": []
+    },
+	{
+      "chainId": 80084,
+      "address": "0xE053FD4972fC9242EF7310711a422C8DBF20e686",
+      "symbol": "BEBE",
+      "name": "BEBE",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/BEBE_logo.png",
+      "tags": []
     }
   ],
   "version": {
