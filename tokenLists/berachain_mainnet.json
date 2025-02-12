@@ -82,6 +82,7 @@
   ,{"chainId": 80094, "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b", "symbol": "iBGT", "name": "Infrared BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5", "symbol": "iBERA", "name": "Infrared BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x7EaAE3754b32CCA569CDeAD488739AAe110076Ec", "symbol": "WAGMI", "name": "Wagmi", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wagmipad.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x3b3dd22625128Ff1548110f9B7Bc702F540668e2", "symbol": "gBERA", "name": "gBERA Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/gbera.png", "tags": ["bera"]}
   ],
   "timestamp": "2025-02-11T00:00:00Z",
   "version": {
