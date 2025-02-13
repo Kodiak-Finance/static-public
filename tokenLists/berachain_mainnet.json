@@ -83,6 +83,7 @@
   ,{"chainId": 80094, "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5", "symbol": "iBERA", "name": "Infrared BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x7EaAE3754b32CCA569CDeAD488739AAe110076Ec", "symbol": "WAGMI", "name": "Wagmi", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wagmipad.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x3b3dd22625128Ff1548110f9B7Bc702F540668e2", "symbol": "gBERA", "name": "gBERA Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/gbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x6FF4D64976428025Cdcc3354EF53b5D19637481e", "symbol": "ARTIO", "name": "Artio", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/artio.png", "tags": ["bera"]}
   ],
   "timestamp": "2025-02-11T00:00:00Z",
   "version": {
