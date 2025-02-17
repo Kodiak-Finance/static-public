@@ -83,6 +83,9 @@
   ,{"chainId": 80094, "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5", "symbol": "iBERA", "name": "Infrared BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x7EaAE3754b32CCA569CDeAD488739AAe110076Ec", "symbol": "WAGMI", "name": "Wagmi", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wagmipad.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x3b3dd22625128Ff1548110f9B7Bc702F540668e2", "symbol": "gBERA", "name": "gBERA Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/gbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0xD77552D3849ab4D8C3b189A9582d0ba4C1F4f912", "symbol": "wgBERA", "name": "wgBERA Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wgbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0xff0a636dfc44bb0129b631cdd38d21b613290c98", "symbol": "HOLD", "name": "Holdstation", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/holdstation.png", "tags": []}
+  ,{"chainId": 80094, "address": "0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21", "symbol": "PLUG", "name": "Beraplug", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plug.png", "tags": ["eco"]}
   ],
   "timestamp": "2025-02-11T00:00:00Z",
   "version": {
