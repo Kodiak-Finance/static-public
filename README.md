@@ -23,3 +23,13 @@ When you want to bring your token into the kodiak interface follow these steps:
 ‼️ Do not change the `logoURI` domain, only replace the name of your new file that you added in the last step.
 
 ‼️ The file name must be in lower case and in PNG format 
+
+## Semantic versioning
+Lists include a version field, which follows semantic versioning. You need to update the version number following the rules described below:
+
+- Increment major version when tokens are removed
+- Increment minor version when tokens are added
+- Increment patch version when tokens already on the list have minor details changed (name, symbol, logo URL, decimals)
+- Changing a token address or chain ID is considered both a remove and an add, and should be a major version update.
+
+Unless the version is incremented correctly, the list will not be updated.
