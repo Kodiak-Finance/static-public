@@ -81,6 +81,7 @@
   ,{"chainId": 80094, "address": "0x85468a0CB26B5Fc1F2B7B7BA3aee07F073dff709", "symbol": "GODL", "name": "Grand Conquest Gold", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/golds3.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7", "symbol": "RAMEN", "name": "Ramen", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ramen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142", "symbol": "YEET", "name": "YEET", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/yeet.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x1f7210257fa157227d09449229a9266b0d581337", "symbol": "BERAMO", "name": "BeramoniumCoin", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/beramo.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x6BAd2A58927198F8D39A90625699c2A3c9bDd4ce", "symbol": "BBLAST", "name": "Blast on Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bblast.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x18878Df23e2a36f81e820e4b47b4A40576D3159C", "symbol": "OHM", "name": "Olympus", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/ohm.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b", "symbol": "iBGT", "name": "Infrared BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibgt.png", "tags": ["bera"]}
