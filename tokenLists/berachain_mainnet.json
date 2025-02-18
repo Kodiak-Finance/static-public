@@ -27,7 +27,7 @@
     },
     "meme": {
       "name": "Meme",
-      "description": "Non-Panda Memecoins"
+      "description": "Non Panda Memecoins"
     },
     "bera": {
       "name": "Bera",
@@ -95,9 +95,9 @@
   ,{"chainId": 80094, "address": "0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21", "symbol": "PLUG", "name": "Beraplug", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plug.png", "tags": ["meme"]}
   ,{"chainId": 80094, "address": "0x6FF4D64976428025Cdcc3354EF53b5D19637481e", "symbol": "ARTIO", "name": "Artio", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/artio.png", "tags": ["meme"]}
   ],
-  "timestamp": "2025-02-11T00:00:00Z",
+  "timestamp": "2025-02-18T00:00:00Z",
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 1,
     "patch": 1
   }
