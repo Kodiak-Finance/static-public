@@ -1,8 +1,8 @@
 {
-  "name": "Berachain Bartio Default Token List",
+  "name": "Kodiak Cartio Default List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
-    "bartio"
+    "kodiak"
   ],
   "tags": {
     "stablecoin": {
@@ -77,9 +77,9 @@
   ,{"chainId": 80000, "address": "0x4Ebd8983Ca3b7c3621cdB9AD87191f2cB5677726", "symbol": "ylPumpBTC", "name": "CIAN pumpBTC Yield Layer", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ylPumpBTC.png", "tags": ["btc"]}
   ,{"chainId": 80000, "address": "0xfd83d11c1C968E2a65086Ee6e5D289E637a30287", "symbol": "ylstETH", "name": "CIAN stETH Yield Layer", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ylstETH.png", "tags": ["eth"]}
   ],
-  "timestamp": "",
+  "timestamp": "2025-01-01T00:00:00Z",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }
