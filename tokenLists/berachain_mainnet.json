@@ -97,11 +97,12 @@
   ,{"chainId": 80094, "address": "0x6FF4D64976428025Cdcc3354EF53b5D19637481e", "symbol": "ARTIO", "name": "Artio", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/artio.png", "tags": ["meme"]}
   ,{"chainId": 80094, "address": "0x8E06ba13C03104f0C78A435C6FA0C0C33aE159d1", "symbol": "cPOLLEN", "name": "Pollen points", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/cpollen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xA452810A4215fCCC834ED241e6667f519b9856EC", "symbol": "BBOT", "name": "Berabot", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/berabot.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82", "symbol": "BYUSD", "name": "BYUSD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/byusd.png", "tags": ["usd"]}
   ],
-  "timestamp": "2025-02-18T00:00:00Z",
+  "timestamp": "2025-02-21T00:00:00Z",
   "version": {
     "major": 19,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   }
 }
