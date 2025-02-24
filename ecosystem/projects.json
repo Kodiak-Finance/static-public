@@ -10,89 +10,89 @@
     "LST / LSD",
     "Structured Products"
   ],
-  "projects": [
+  "ecosystem": [
     {
       "name": "Beraborrow",
       "category": "Lending",
       "description": "A decentralised protocol, allows users to take out interest free loans by using the iBGT token as collateral.",
-      "logoURI": "https://static.kodiak.finance/projects/beraborrow.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/beraborrow.png",
       "link": "https://www.beraborrow.com/"
     },
     {
       "name": "Infrared",
       "category": "Infrastructure",
       "description": "A dedicated framework for both BGT stakers and liquidity providers to boosting user rewards.",
-      "logoURI": "https://static.kodiak.finance/projects/infrared.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/infrared.png",
       "link": "https://infrared.finance/"
     },
     {
       "name": "Yeet",
       "category": "Gamblefi",
       "description": "An on-chain game theory experience with no dominant game theory strategy",
-      "logoURI": "https://static.kodiak.finance/projects/yeet.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/yeet.png",
       "link": "https://yeetit.xyz/"
     },
     {
       "name": "Ramen Finance",
       "category": "Launchpad",
       "description": "Concentrated Liquidity AMM & Launchpad",
-      "logoURI": "https://static.kodiak.finance/projects/ramen.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/ramen.png",
       "link": "https://ramen.finance/"
     },
     {
       "name": "Stake Stone",
       "category": "LST",
       "description": "Omnichain liquidity asset protocol building an adaptive staking network for liquid ETH / BTC",
-      "logoURI": "https://static.kodiak.finance/projects/stakestone.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/stakestone.png",
       "link": "https://stakestone.io/"
     },
     {
       "name": "PumpBTC",
       "category": "LST",
       "description": "A new liquid staking solution designed to seamlessly integrate Bitcoin into the DeFi ecosystem",
-      "logoURI": "https://static.kodiak.finance/projects/pumpbtc.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/pumpbtc.png",
       "link": "https://pumpbtc.xyz/"
     },
     {
       "name": "Stryke",
       "category": "Derivatives",
       "description": "A decentralized options exchange offers permissionless access to options trading for crypto assets",
-      "logoURI": "https://static.kodiak.finance/projects/stryke.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/stryke.png",
       "link": "https://www.stryke.xyz/"
     },
     {
       "name": "Origami",
       "category": "Structured Products",
       "description": "Tokenizing automated leverage positions to abstract away position management",
-      "logoURI": "https://static.kodiak.finance/projects/origami.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/origami.png",
       "link": "https://origami.finance/"
     },
     {
       "name": "Gummi",
       "category": "Lending",
       "description": "A leverage trading platform with an attached money market that supports any token",
-      "logoURI": "https://static.kodiak.finance/projects/gummi.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/gummi.png",
       "link": "https://gummi.fi/"
     },
     {
       "name": "IVX",
       "category": "Derivatives",
       "description": "A liquid options AMM built on Berachain that allows users to trade zero days to expiry option contracts ",
-      "logoURI": "https://static.kodiak.finance/projects/ivx.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/ivx.png",
       "link": "https://www.ivx.fi/"
     },
     {
       "name": "D2 Finance",
       "category": "Structured Products",
       "description": "An on-chain hedge fund providing sophisticated options-based vault architecture",
-      "logoURI": "https://static.kodiak.finance/projects/d2.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/d2.png",
       "link": "https://d2.finance/"
     },
     {
       "name": "Ooga Booga",
       "category": "Infrastructure",
       "description": "Berachain's native liquidity aggregator seamlessly integrates with a wide range of Dapps.",
-      "logoURI": "https://static.kodiak.finance/projects/ooga.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/ooga.png",
       "link": "https://oogabooga.io/"
     }
   ],
