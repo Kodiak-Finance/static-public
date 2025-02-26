@@ -1,14 +1,22 @@
 # 🐼 Kodiak Static
-Static content for Kodiak infrastructure
+Static content for Kodiak infrastructure including token lists and ecosystem projects.
 
-### Contributing
+## Contents
+This repository contains:
+
+1. Token lists for different Berachain networks
+2. Ecosystem project listings
+3. Static assets (logos, icons)
+
+### Contributing to Token Lists
 When you want to bring your token into the kodiak interface follow these steps:
 
 1. Create a fork of this repository, work further in your own version of it
 2. Add your logo to `src/tokens` in png format, use only lower case in the file name
-3. Add the appropriate entry to `tokenLists/bartio.json`. Use the template you'll find below
+3. Add the appropriate entry to the relevant token list file in the `tokenLists` directory, target your network of choice.
 4. Send this Pull Requets with the name "Add {SYMBOL} token." to branch `main`
 
+### Token Entry Template
 ```json
 {
   "chainId": 80084,
@@ -20,6 +28,8 @@ When you want to bring your token into the kodiak interface follow these steps:
   "tags": []
 }
 ```
+
+### Important Notes
 ‼️ Do not change the `logoURI` domain, only replace the name of your new file that you added in the last step.
 
 ‼️ The file name must be in lower case and in PNG format 
@@ -33,3 +43,24 @@ Lists include a version field, which follows semantic versioning. You need to up
 - Changing a token address or chain ID is considered both a remove and an add, and should be a major version update.
 
 Unless the version is incremented correctly, the list will not be updated.
+
+
+
+### Contributing to Ecosystem Projects
+To add your project to the Kodiak ecosystem list:
+
+1. Fork this repository
+2. Add your project logo to `ecosystem/logo` in PNG format
+3. Add your project entry to ecosystem/projects.json
+4. Submit a Pull Request with the name "Add {PROJECT} to ecosystem" to the main branch
+
+### Ecosystem Project Entry Template
+```json
+{
+  "name": "Your Project",
+  "category": "Infrastructure",
+  "description": "A brief description of your project (max 100 characters)",
+  "logoURI": "https://static.kodiak.finance/ecosystem/logo/yourproject.png",
+  "link": "https://yourproject.xyz/"
+}
+```
