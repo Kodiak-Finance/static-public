@@ -64,3 +64,21 @@ To add your project to the Kodiak ecosystem list:
   "link": "https://yourproject.xyz/"
 }
 ```
+
+### Available Categories:
+
+1. Derivatives
+2. Gamblefi
+3. Infrastructure
+4. Launchpad
+5. Lending
+6. LST / LSD
+7. Structured Products
+
+## Semantic Versioning
+All lists in this repository follow semantic versioning. You must update the version number following these rules:
+
+1. Increment major version when ecosystem/projects are removed
+2. Increment minor version when ecosystem/projects are added
+3. Increment patch version when ecosystem/projects already on the list have minor details changed (name, symbol, logo URL, decimals)
+4. Replacing a project with a completely different one (which is effectively a removal and addition), and should be a major version update
