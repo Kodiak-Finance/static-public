@@ -39,6 +39,15 @@
     },
     {
       "chainId": 6231991,
+      "address": "0xeda89b957E6cC0f15aB27307A386370814629FEe",
+      "symbol": "WBERA",
+      "name": "Wrapped Bera",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wbera.png",
+      "tags": []
+    },
+    {
+      "chainId": 6231991,
       "address": "0x1E9cc7764D7974D2F15f6B4AD3DD1f2e47892fBF",
       "symbol": "WETH",
       "name": "Wrapped Ether",
@@ -49,7 +58,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
