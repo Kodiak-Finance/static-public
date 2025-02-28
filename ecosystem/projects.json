@@ -47,11 +47,11 @@
       "link": "https://stakestone.io/"
     },
     {
-      "name": "PumpBTC",
-      "category": "LST",
-      "description": "A new liquid staking solution designed to seamlessly integrate Bitcoin into the DeFi ecosystem",
-      "logoURI": "https://static.kodiak.finance/ecosystem/logo/pumpbtc.png",
-      "link": "https://pumpbtc.xyz/"
+      "name": "Olympus DAO",
+      "category": "DAO",
+      "description": "The Olympus protocol is a decentralized financial (DeFi) system that supports OHM, a treasury backed token on the Ethereum network.",
+      "logoURI": "https://static.kodiak.finance/tokens/ohm.png",
+      "link": "https://www.olympusdao.finance/"
     },
     {
       "name": "Stryke",
