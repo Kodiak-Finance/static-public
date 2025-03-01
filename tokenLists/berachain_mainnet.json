@@ -99,12 +99,12 @@
   ,{"chainId": 80094, "address": "0xA452810A4215fCCC834ED241e6667f519b9856EC", "symbol": "BBOT", "name": "Berabot", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/berabot.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82", "symbol": "BYUSD", "name": "BYUSD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/byusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x047b41A14F0BeF681b94f570479AE7208E577a0C", "symbol": "HIM", "name": "Honey is Money", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/him.png", "tags": ["meme"]}
-
+  ,{"chainId": 80094, "address": "0x6536cEAD649249cae42FC9bfb1F999429b3ec755", "symbol":  "NAV", "name":  "NAVFinance", "decimals":  18, "logoURI": "https://static.kodiak.finance/tokens/nav.png", "tag":  ["eco"]}
   ],
   "timestamp": "2025-02-21T00:00:00Z",
   "version": {
     "major": 19,
-    "minor": 7,
+    "minor": 8,
     "patch": 1
   }
 }
