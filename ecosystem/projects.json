@@ -50,7 +50,7 @@
       "name": "Olympus DAO",
       "category": "DAO",
       "description": "The Olympus protocol is a decentralized financial (DeFi) system that supports OHM, a treasury backed token on the Ethereum network.",
-      "logoURI": "https://static.kodiak.finance/tokens/ohm.png",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/ohm.png",
       "link": "https://www.olympusdao.finance/"
     },
     {
@@ -94,11 +94,39 @@
       "description": "Berachain's native liquidity aggregator seamlessly integrates with a wide range of Dapps.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ooga.png",
       "link": "https://oogabooga.io/"
+    },
+    {
+      "name": "Dolomite",
+      "category": "Lending",
+      "description": "Dolomite is the only lending and borrowing platform that can support over 1,000 unique assets. Lend, borrow, and earn.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/dolomite.png",
+      "link": "https://dolomite.io/"
+    },
+    {
+      "name": "Ethena",
+      "category": "Derivatives",
+      "description": "Ethena is a synthetic dollar protocol built on Ethereum that provides a crypto-native solution for money.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/ethena.png",
+      "link": "https://ethena.fi/"
+    },
+    {
+      "name": "Ether Fi",
+      "category": "LST / LSD",
+      "description": "The liquid restaking token that rewards you more across DeFi.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/etherfi.png",
+      "link": "https://ether.fi/"
+    },
+    {
+      "name": "Lombard",
+      "category": "Lending",
+      "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
+      "link": "https://lombard.finance/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
-    "major": 2,
+    "major": 5,
     "minor": 1,
     "patch": 0
   }
