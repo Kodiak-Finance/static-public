@@ -8,7 +8,8 @@
     "Launchpad",
     "Lending",
     "LST / LSD",
-    "Structured Products"
+    "Structured Products",
+    "Stablecoin"
   ],
   "ecosystem": [
     {
@@ -128,6 +129,6 @@
   "version": {
     "major": 5,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }
