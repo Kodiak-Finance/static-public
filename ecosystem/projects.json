@@ -123,6 +123,13 @@
       "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
       "link": "https://lombard.finance/"
+    },
+    {
+      "name": "Block Chain",
+      "category": "Gamblefi",
+      "description": "An eccentric meme focused L2 on Berachain using $BITCOIN as the gas token",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/block-chain.png",
+      "link": "https://block-chain.lol/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
