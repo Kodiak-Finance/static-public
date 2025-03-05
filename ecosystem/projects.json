@@ -126,7 +126,7 @@
     },
     {
       "name": "Stargate Finance",
-      "category": "Bridging",
+      "category": "Infrastructure",
       "description": "Stargate is the canonical bridge provider for all USDC and WETH into Berachain",
       "logoURI": "",
       "link": "https://stargate.finance//"
