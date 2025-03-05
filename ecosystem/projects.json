@@ -123,12 +123,19 @@
       "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
       "link": "https://lombard.finance/"
+    },
+    {
+      "name": "Dahlia",
+      "category": "Lending",
+      "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/dahlia.png",
+      "link": "https://dahlia.xyz/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
     "major": 5,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
