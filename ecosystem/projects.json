@@ -123,7 +123,14 @@
       "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
       "link": "https://lombard.finance/"
-    }
+    },
+    {
+      "name": "Stargate Finance",
+      "category": "Bridging",
+      "description": "Stargate is the canonical bridge provider for all USDC and WETH into Berachain",
+      "logoURI": "",
+      "link": "https://stargate.finance//"
+    },
   ],
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
