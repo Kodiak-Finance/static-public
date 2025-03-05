@@ -34,7 +34,7 @@ When you want to bring your token into the kodiak interface follow these steps:
 
 ‼️ The file name must be in lower case and in PNG format 
 
-## Semantic versioning
+### Semantic versioning
 Lists include a version field, which follows semantic versioning. You need to update the version number following the rules described below:
 
 - Increment major version when tokens are removed
@@ -58,7 +58,7 @@ To add your project to the Kodiak ecosystem list:
 ```json
 {
   "name": "Your Project",
-  "category": "Infrastructure",
+  "category": "e.g: Infrastructure",
   "description": "A brief description of your project (max 100 characters)",
   "logoURI": "https://static.kodiak.finance/ecosystem/logo/yourproject.png",
   "link": "https://yourproject.xyz/"
@@ -75,7 +75,7 @@ To add your project to the Kodiak ecosystem list:
 6. LST / LSD
 7. Structured Products
 
-## Semantic Versioning
+### Semantic Versioning
 All lists in this repository follow semantic versioning. You must update the version number following these rules:
 
 1. Increment major version when ecosystem/projects are removed
