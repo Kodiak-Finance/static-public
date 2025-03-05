@@ -123,6 +123,13 @@
       "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
       "link": "https://lombard.finance/"
+    },
+    {
+      "name": "Jones",
+      "category": "Structured Products",
+      "description": "DeFi Strategies made simple. Fully automated yield vaults.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/jones.png",
+      "link": "https://jonesdao.io/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
