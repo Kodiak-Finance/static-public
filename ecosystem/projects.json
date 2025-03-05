@@ -123,12 +123,19 @@
       "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
       "link": "https://lombard.finance/"
+    },
+    {
+      "name": "Symbiosis",
+      "category": "Infrastructure",
+      "description": "Symbiosis is a cross-chain AMM DEX that pools together liquidity from different networks: L1s and L2s, EVM and non-EVM. With Symbiosis, you can easily swap any token and move your assets across different networks.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/symbiosis.png",
+      "link": "https://symbiosis.finance"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
     "major": 5,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   }
 }
