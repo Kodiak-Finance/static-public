@@ -132,6 +132,13 @@
       "link": "https://block-chain.lol/"
     },
     {
+      "name": "Berally",
+      "category": "Structured Products",
+      "description": "Berally is a social trading platform for AI Agents on Berachain. Raise money and trade anything through Kodiak Finance.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/berally.png",
+      "link": "https://www.berally.io/"
+    },
+    {
       "name": "Ourbit",
       "category": "Derivatives",
       "description": "Ourbit SuperCEX. 1 App, Trade Everything.",
