@@ -130,6 +130,13 @@
       "description": "An eccentric meme focused L2 on Berachain using $BITCOIN (HarryPotterObamaSonic10Inu) as the gas token.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/block-chain.png",
       "link": "https://block-chain.lol/"
+    },
+    {
+      "name": "Berally",
+      "category": "Structured Products",
+      "description": "Berally is a social trading platform for AI Agents on Berachain. Raise money and trade anything through Kodiak Finance.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/berally.png",
+      "link": "https://www.berally.io/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
