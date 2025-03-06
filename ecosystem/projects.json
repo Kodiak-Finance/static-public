@@ -132,6 +132,13 @@
       "link": "https://block-chain.lol/"
     },
     {
+      "name": "Ourbit",
+      "category": "Derivatives",
+      "description": "Ourbit SuperCEX. 1 App, Trade Everything.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/ourbit.png",
+      "link": "https://ourbit.com/"
+    },
+    {
       "name": "Enso",
       "category": "Infrastructure",
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
