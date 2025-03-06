@@ -72,8 +72,9 @@ To add your project to the Kodiak ecosystem list:
 3. Infrastructure
 4. Launchpad
 5. Lending
-6. LST / LSD
+6. Liquid Staking
 7. Structured Products
+8. Trading Tools
 
 ### Semantic Versioning
 All lists in this repository follow semantic versioning. You must update the version number following these rules:
