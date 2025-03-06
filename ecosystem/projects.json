@@ -174,10 +174,10 @@
       "link": "https://www.enso.build/"
     }
   ],
-  "timestamp": "2025-02-22T00:00:00Z",
+  "timestamp": "2025-03-06T00:00:00Z",
   "version": {
-    "major": 5,
-    "minor": 4,
+    "major": 6,
+    "minor": 0,
     "patch": 0
   }
 }
