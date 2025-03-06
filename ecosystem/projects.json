@@ -13,6 +13,13 @@
   ],
   "ecosystem": [
     {
+      "name": "Dinero",
+      "category": "Liquid Staking",
+      "description": "Dinero is the team behind beraETH, a high-yield, Berachain-native ETH liquid staking token.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/dinero.png",
+      "link": "https://berachain.dinero.xyz/"
+    },
+    {
       "name": "Beraborrow",
       "category": "Lending",
       "description": "A decentralised protocol, allows users to take out interest free loans by using the iBGT token as collateral.",
@@ -125,6 +132,48 @@
       "link": "https://lombard.finance/"
     },
     {
+      "name": "Dahlia",
+      "category": "Lending",
+      "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/dahlia.png",
+      "link": "https://dahlia.xyz/"
+    },
+    {
+      "name": "Block Chain",
+      "category": "Gamblefi",
+      "description": "An eccentric meme focused L2 on Berachain using $BITCOIN (HarryPotterObamaSonic10Inu) as the gas token.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/block-chain.png",
+      "link": "https://block-chain.lol/"
+    },
+    {
+      "name": "GoldilocksDAO",
+      "category": "Structured Products",
+      "description": "Goldilocks is a DAO committed to developing custom defi infrastructure for Berachain.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/goldilocks.png",
+      "link": "https://goldilocksdao.io"
+    },
+    {
+      "name": "Berally",
+      "category": "Structured Products",
+      "description": "Berally is a social trading platform for AI Agents on Berachain. Raise money and trade anything through Kodiak Finance.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/berally.png",
+      "link": "https://www.berally.io/"
+    },
+    {
+      "name": "Ourbit",
+      "category": "Derivatives",
+      "description": "Ourbit SuperCEX. 1 App, Trade Everything.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/ourbit.png",
+      "link": "https://ourbit.com/"
+    },
+    {
+      "name": "Enso",
+      "category": "Infrastructure",
+      "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
+      "link": "https://www.enso.build/"
+    },
+    {
       "name": "Jones",
       "category": "Structured Products",
       "description": "DeFi Strategies made simple. Fully automated yield vaults.",
@@ -132,10 +181,10 @@
       "link": "https://jonesdao.io/"
     }
   ],
-  "timestamp": "2025-02-22T00:00:00Z",
+  "timestamp": "2025-03-06T00:00:00Z",
   "version": {
-    "major": 5,
-    "minor": 4,
-    "patch": 1
+    "major": 6,
+    "minor": 1,
+    "patch": 0
   }
 }
