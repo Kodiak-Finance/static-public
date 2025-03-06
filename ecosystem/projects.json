@@ -132,6 +132,13 @@
       "link": "https://block-chain.lol/"
     },
     {
+      "name": "GoldilocksDAO",
+      "category": "Structured Products",
+      "description": "Goldilocks is a DAO committed to developing custom defi infrastructure for Berachain.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/goldilocks.png",
+      "link": "https://goldilocksdao.io"
+    },
+    {
       "name": "Berally",
       "category": "Structured Products",
       "description": "Berally is a social trading platform for AI Agents on Berachain. Raise money and trade anything through Kodiak Finance.",
