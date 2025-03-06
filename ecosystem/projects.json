@@ -137,12 +137,19 @@
       "description": "Ourbit SuperCEX. 1 App, Trade Everything.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ourbit.png",
       "link": "https://ourbit.com/"
+    },
+    {
+      "name": "Enso",
+      "category": "Infrastructure",
+      "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
+      "link": "https://www.enso.build/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
     "major": 5,
-    "minor": 4,
+    "minor": 5,
     "patch": 1
   }
 }
