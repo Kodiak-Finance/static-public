@@ -130,6 +130,13 @@
       "description": "An eccentric meme focused L2 on Berachain using $BITCOIN (HarryPotterObamaSonic10Inu) as the gas token.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/block-chain.png",
       "link": "https://block-chain.lol/"
+    },
+    {
+      "name": "Ourbit",
+      "category": "Derivatives",
+      "description": "Ourbit SuperCEX. 1 App, Trade Everything.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/ourbit.png",
+      "link": "https://ourbit.com/"
     }
   ],
   "timestamp": "2025-02-22T00:00:00Z",
