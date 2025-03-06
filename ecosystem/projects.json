@@ -125,6 +125,13 @@
       "link": "https://lombard.finance/"
     },
     {
+      "name": "Dahlia",
+      "category": "Lending",
+      "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/dahlia.png",
+      "link": "https://dahlia.xyz/"
+    },
+    {
       "name": "Block Chain",
       "category": "Gamblefi",
       "description": "An eccentric meme focused L2 on Berachain using $BITCOIN (HarryPotterObamaSonic10Inu) as the gas token.",
@@ -163,7 +170,7 @@
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
     "major": 5,
-    "minor": 5,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
