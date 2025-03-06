@@ -13,6 +13,13 @@
   ],
   "ecosystem": [
     {
+      "name": "Dinero",
+      "category": "Liquid Staking",
+      "description": "Dinero is the team behind beraETH, a high-yield, Berachain-native ETH liquid staking token.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/dinero.png",
+      "link": "https://berachain.dinero.xyz/"
+    },
+    {
       "name": "Beraborrow",
       "category": "Lending",
       "description": "A decentralised protocol, allows users to take out interest free loans by using the iBGT token as collateral.",
