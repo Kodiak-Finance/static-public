@@ -126,6 +126,12 @@
       "link": "https://lombard.finance/"
     },
     {
+      "name": "Stargate Finance",
+      "category": "Infrastructure",
+      "description": "Stargate is the canonical bridge provider for all USDC and WETH into Berachain",
+      "logoURI": "",
+      "link": "https://stargate.finance//"
+    },
       "name": "Dahlia",
       "category": "Lending",
       "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
