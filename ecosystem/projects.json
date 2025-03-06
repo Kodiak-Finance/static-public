@@ -125,6 +125,13 @@
       "link": "https://lombard.finance/"
     },
     {
+      "name": "Block Chain",
+      "category": "Gamblefi",
+      "description": "An eccentric meme focused L2 on Berachain using $BITCOIN (HarryPotterObamaSonic10Inu) as the gas token.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/block-chain.png",
+      "link": "https://block-chain.lol/"
+    },
+    {
       "name": "Enso",
       "category": "Infrastructure",
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
@@ -135,7 +142,7 @@
   "timestamp": "2025-02-22T00:00:00Z",
   "version": {
     "major": 5,
-    "minor": 5,
+    "minor": 4,
     "patch": 1
   }
 }
