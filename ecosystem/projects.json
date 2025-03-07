@@ -167,6 +167,13 @@
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build/"
     }
+    {
+      "name": "Beradrome",
+      "category": "Structured Products",
+      "description": "Native liquidity marketplace on Berachain",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/beradrome.png",
+      "link": "https://beradrome.com"
+    }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
