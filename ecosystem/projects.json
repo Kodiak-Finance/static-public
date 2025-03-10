@@ -166,12 +166,19 @@
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build/"
+    },
+    {
+      "name": "Adventure Layer",
+      "category": "Infrastructure",
+      "description": "A Layer 2 custom made for Fully Onchain Games",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/adventurelayer.png",
+      "link": "https://adventurelayer.xyz/"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
