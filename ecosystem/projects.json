@@ -166,12 +166,19 @@
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build/"
+    },
+    {
+      "name": "Marginal",
+      "category": "Derivatives",
+      "description": "Marginal is a permissionless spot and perpetual exchange that enables leverage on any asset with a Kodiak V3 Oracle.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/marginal.png",
+      "link": "https://www.marginal.network/"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
