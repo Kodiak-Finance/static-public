@@ -167,11 +167,18 @@
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build/"
     }
+    {
+      "name": "BeraTown",
+      "category": "Infrastructure",
+      "description": "Beratown: Your gateway to Berachain. Swap, borrow, lend, and more—all in one seamless interface.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/beratown.png",
+      "link": "https://beratown.dapdap.net/"
+    }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
