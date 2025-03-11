@@ -106,6 +106,8 @@
   ,{"chainId": 80094, "address": "0xbf2E152f460090aCE91A456e3deE5ACf703f27aD", "symbol": "PRG", "name":  "Porridge", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/porridge.png", "tag": ["eco"]}
   ,{"chainId": 80094, "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6", "symbol": "USDbr", "name": "USDbr", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usdbr.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c", "symbol": "NOME", "name": "NOME", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nome.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9", "symbol": "USR", "name": "Resolv USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usr.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9", "symbol": "RLP", "name": "Resolv Liquidity Provider Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/rlp.png", "tags": ["usd"]}
   ],
   "timestamp": "2025-03-10T00:00:00Z",
   "version": {
