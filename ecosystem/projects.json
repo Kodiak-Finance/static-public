@@ -166,12 +166,19 @@
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build/"
+    },
+    {
+      "name": "Stride",
+      "category": "Liquid Staking",
+      "description": "Stride provides liquid staking for Berachain's native governance token, BGT (stBGT)",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/stride.png",
+      "link": "https://bera.stride.zone/"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
