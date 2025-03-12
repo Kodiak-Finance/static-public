@@ -193,6 +193,13 @@
       "description": "Native liquidity marketplace on Berachain",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/beradrome.png",
       "link": "https://beradrome.com"
+    },
+    {
+      "name": "Berabot",
+      "category": "Tool",
+      "description": "First Telegram sniping & trading bot on Berachain",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/berabot.png",
+      "link": "https://t.me/berabotsnipingbot"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
