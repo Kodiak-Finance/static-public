@@ -131,7 +131,8 @@
       "description": "Stargate is the canonical bridge provider for all USDC and WETH into Berachain",
       "logoURI": "",
       "link": "https://stargate.finance//"
-    },{
+    },
+    {
       "name": "Dahlia",
       "category": "Lending",
       "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
@@ -193,12 +194,19 @@
       "description": "Native liquidity marketplace on Berachain",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/beradrome.png",
       "link": "https://beradrome.com"
+    },
+    {
+      "name": "Beardiction",
+      "category": "Gamblefi",
+      "description": "Beardiction | #1 Prediction Market on Bera Chain",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/beardiction.png",
+      "link": "https://www.beardiction.xyz"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   }
 }
