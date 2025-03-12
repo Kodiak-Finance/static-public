@@ -196,7 +196,7 @@
     },
     {
       "name": "Berabot",
-      "category": "Tool",
+      "category": "Trading Tools",
       "description": "First Telegram sniping & trading bot on Berachain",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/berabot.png",
       "link": "https://t.me/berabotsnipingbot"
