@@ -5,9 +5,10 @@
     "Derivatives",
     "Gamblefi",
     "Infrastructure",
+    "Trading Tools",
     "Launchpad",
     "Lending",
-    "LST / LSD",
+    "Liquid Staking",
     "Structured Products",
     "Stablecoin"
   ],
@@ -22,41 +23,41 @@
     {
       "name": "Beraborrow",
       "category": "Lending",
-      "description": "A decentralised protocol, allows users to take out interest free loans by using the iBGT token as collateral.",
+      "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar ($NECT).",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/beraborrow.png",
       "link": "https://www.beraborrow.com/"
     },
     {
       "name": "Infrared",
-      "category": "Infrastructure",
-      "description": "A dedicated framework for both BGT stakers and liquidity providers to boosting user rewards.",
+      "category": "Liquid Staking",
+      "description": "Infrared is building liquid staking solutions for BERA (iBERA) and BGT (iBGT).",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/infrared.png",
       "link": "https://infrared.finance/"
     },
     {
       "name": "Yeet",
       "category": "Gamblefi",
-      "description": "An on-chain game theory experience with no dominant game theory strategy",
+      "description": "An on-chain game theory experience with no dominant game theory strategy.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/yeet.png",
       "link": "https://yeetit.xyz/"
     },
     {
       "name": "Ramen Finance",
       "category": "Launchpad",
-      "description": "Concentrated Liquidity AMM & Launchpad",
+      "description": "Ramen is the Berachain-native token launchpad powering liquidity bootstrapping and price discovery for new assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ramen.png",
       "link": "https://ramen.finance/"
     },
     {
       "name": "Stake Stone",
-      "category": "LST",
-      "description": "Omnichain liquidity asset protocol building an adaptive staking network for liquid ETH / BTC",
+      "category": "Liquid Staking",
+      "description": "Omnichain liquidity asset protocol building an adaptive staking network for liquid ETH / BTC.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/stakestone.png",
       "link": "https://stakestone.io/"
     },
     {
       "name": "Olympus DAO",
-      "category": "DAO",
+      "category": "Stablecoin",
       "description": "The Olympus protocol is a decentralized financial (DeFi) system that supports OHM, a treasury backed token on the Ethereum network.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ohm.png",
       "link": "https://www.olympusdao.finance/"
@@ -64,42 +65,35 @@
     {
       "name": "Stryke",
       "category": "Derivatives",
-      "description": "A decentralized options exchange offers permissionless access to options trading for crypto assets",
+      "description": "A decentralized options exchange offering permissionless access to options trading for crypto assets.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/stryke.png",
       "link": "https://www.stryke.xyz/"
     },
     {
       "name": "Origami",
       "category": "Structured Products",
-      "description": "Tokenizing automated leverage positions to abstract away position management",
+      "description": "Tokenizing automated leverage positions to abstract away position management.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/origami.png",
       "link": "https://origami.finance/"
     },
     {
-      "name": "Gummi",
-      "category": "Lending",
-      "description": "A leverage trading platform with an attached money market that supports any token",
-      "logoURI": "https://static.kodiak.finance/ecosystem/logo/gummi.png",
-      "link": "https://gummi.fi/"
-    },
-    {
       "name": "IVX",
       "category": "Derivatives",
-      "description": "A liquid options AMM built on Berachain that allows users to trade zero days to expiry option contracts ",
+      "description": "A liquid options AMM built on Berachain that allows users to trade zero days to expiry option contracts.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ivx.png",
       "link": "https://www.ivx.fi/"
     },
     {
       "name": "D2 Finance",
       "category": "Structured Products",
-      "description": "An on-chain hedge fund providing sophisticated options-based vault architecture",
+      "description": "An on-chain hedge fund providing sophisticated options-based vault architecture.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/d2.png",
       "link": "https://d2.finance/"
     },
     {
       "name": "Ooga Booga",
-      "category": "Infrastructure",
-      "description": "Berachain's native liquidity aggregator seamlessly integrates with a wide range of Dapps.",
+      "category": "Trading Tools",
+      "description": "Berachain's native dex aggregator.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ooga.png",
       "link": "https://oogabooga.io/"
     },
@@ -112,26 +106,32 @@
     },
     {
       "name": "Ethena",
-      "category": "Derivatives",
+      "category": "Stablecoin",
       "description": "Ethena is a synthetic dollar protocol built on Ethereum that provides a crypto-native solution for money.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ethena.png",
       "link": "https://ethena.fi/"
     },
     {
       "name": "Ether Fi",
-      "category": "LST / LSD",
-      "description": "The liquid restaking token that rewards you more across DeFi.",
+      "category": "Liquid Staking",
+      "description": "Liquid (re)staking of ETH (weETH) and BTC (eBTC).",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/etherfi.png",
       "link": "https://ether.fi/"
     },
     {
       "name": "Lombard",
-      "category": "Lending",
-      "description": "Lombard is an over-collateralized loans in the DeFi ecosystem, allowing users to deposit crypto assets as collateral to borrow other assets.",
+      "category": "Liquid Staking",
+      "description": "Lombard is connecting Bitcoin to every chain, DeFi protocol and yield opportunity with LBTC—the leading Bitcoin LST.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/lombard.png",
       "link": "https://lombard.finance/"
     },
     {
+      "name": "Stargate Finance",
+      "category": "Infrastructure",
+      "description": "Stargate is the canonical bridge provider for all USDC and WETH into Berachain",
+      "logoURI": "",
+      "link": "https://stargate.finance//"
+    },{
       "name": "Dahlia",
       "category": "Lending",
       "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Block Chain",
-      "category": "Gamblefi",
+      "category": "Infrastructure",
       "description": "An eccentric meme focused L2 on Berachain using $BITCOIN (HarryPotterObamaSonic10Inu) as the gas token.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/block-chain.png",
       "link": "https://block-chain.lol/"
@@ -154,7 +154,7 @@
     },
     {
       "name": "Berally",
-      "category": "Structured Products",
+      "category": "Trading Tools",
       "description": "Berally is a social trading platform for AI Agents on Berachain. Raise money and trade anything through Kodiak Finance.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/berally.png",
       "link": "https://www.berally.io/"
@@ -168,10 +168,31 @@
     },
     {
       "name": "Enso",
-      "category": "Infrastructure",
+      "category": "Trading Tools",
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build/"
+    },
+    {
+      "name": "Adventure Layer",
+      "category": "Infrastructure",
+      "description": "A Layer 2 custom made for Fully Onchain Games",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/adventurelayer.png",
+      "link": "https://adventurelayer.xyz/"
+    },
+    {
+      "name": "BeraTown",
+      "category": "Infrastructure",
+      "description": "Beratown: Your gateway to Berachain. Swap, borrow, lend, and more—all in one seamless interface.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/beratown.png",
+      "link": "https://beratown.dapdap.net/"
+    },
+    {
+      "name": "Beradrome",
+      "category": "Structured Products",
+      "description": "Native liquidity marketplace on Berachain",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/beradrome.png",
+      "link": "https://beradrome.com"
     },
     {
       "name": "Jones",
@@ -184,7 +205,7 @@
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 1,
-    "patch": 0
+    "minor": 3,
+    "patch": 1
   }
 }
