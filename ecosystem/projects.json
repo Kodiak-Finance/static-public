@@ -208,4 +208,10 @@
     "minor": 3,
     "patch": 1
   }
+}{
+  "name": "JBAN",
+  "category": "Gamblefi",
+  "description": "A memecoin institution helping Bera to $0 ",
+  "logoURI": "https://static.kodiak.finance/ecosystem/logo/JBANcoin.png",
+  "link": "https://jban.tech"
 }
