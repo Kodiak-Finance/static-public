@@ -193,12 +193,19 @@
       "description": "Native liquidity marketplace on Berachain",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/beradrome.png",
       "link": "https://beradrome.com"
+    },
+    {
+      "name": "Jones",
+      "category": "Structured Products",
+      "description": "DeFi Strategies made simple. Fully automated yield vaults.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/jones.png",
+      "link": "https://jonesdao.io/"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   }
 }
