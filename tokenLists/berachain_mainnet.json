@@ -109,12 +109,12 @@
   ,{"chainId": 80094, "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9", "symbol": "RLP", "name": "Resolv Liquidity Provider Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/rlp.png", "tags": []}
   ,{"chainId": 80094, "address": "0x2416092f143378750bb29b79eD961ab195CcEea5", "symbol": "ezETH", "name": "Renzo Restaked ETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ezeth.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0x5475611Dffb8ef4d697Ae39df9395513b6E947d7", "symbol": "srUSD", "name": "Savings rUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/srusd.png", "tags": ["usd"]}
-
+  ,{"chainId": 80094, "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead", "symbol": "BREAD", "name": "Bread", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bread.png", "tags": ["bera"]}
   ],
-  "timestamp": "2025-03-18T00:00:00Z",
+  "timestamp": "2025-03-20T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 19,
+    "minor": 20,
     "patch": 1
   }
 }
