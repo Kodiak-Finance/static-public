@@ -77,7 +77,6 @@
   ,{"chainId": 80094, "address": "0x96284cCFd80E546b8239b44f653b4B5Db3f21371", "symbol": "eBTC-OT", "name": "eBTC OT", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x46C7BdE4422b6798A09e76B555F2fea8D7FfADdc", "symbol": "weETH-OT", "name": "weETH OT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0xe8D7b965BA082835EA917F2B173Ff3E035B69eeB", "symbol": "xKDK", "name": "Kodiak pre-TGE rewards", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kdk.png", "tags": []}
-  ,{"chainId": 80094, "address": "0x5C43a5fEf2b056934478373A53d1cb08030fd382", "symbol": "BRLY", "name": "Berally Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/berally.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x85468a0CB26B5Fc1F2B7B7BA3aee07F073dff709", "symbol": "GODL", "name": "Grand Conquest Gold", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/golds3.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7", "symbol": "RAMEN", "name": "Ramen", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ramen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142", "symbol": "YEET", "name": "YEET", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/yeet.png", "tags": ["eco"]}
@@ -99,16 +98,23 @@
   ,{"chainId": 80094, "address": "0xA452810A4215fCCC834ED241e6667f519b9856EC", "symbol": "BBOT", "name": "Berabot", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/berabot.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82", "symbol": "BYUSD", "name": "BYUSD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/byusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x047b41A14F0BeF681b94f570479AE7208E577a0C", "symbol": "HIM", "name": "Honey is Money", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/him.png", "tags": ["meme"]}
-  ,{"chainId": 80094, "address": "0x6536cEAD649249cae42FC9bfb1F999429b3ec755", "symbol":  "NAV", "name":  "NAVFinance", "decimals":  18, "logoURI": "https://static.kodiak.finance/tokens/nav.png", "tag": ["eco"]}
-  ,{"chainId": 80094, "address": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5", "symbol":  "HENLO", "name":  "henlo", "decimals":  18, "logoURI": "https://static.kodiak.finance/tokens/henlo.png", "tag": ["meme"]}
-  ,{"chainId": 80094, "address": "0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb", "symbol":  "stBGT", "name":  "stBGT", "decimals":  18, "logoURI": "https://static.kodiak.finance/tokens/stbgt.png", "tag": ["bera"]}
-  ,{"chainId": 80094, "address": "0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227", "symbol":  "BITCOIN", "name":  "HarryPotterObamaSonic10Inu", "decimals":  8, "logoURI": "https://static.kodiak.finance/tokens/hpos10i.png", "tag": ["meme"]}
-  ,{"chainId": 80094, "address": "0xbf2E152f460090aCE91A456e3deE5ACf703f27aD", "symbol":  "PRG", "name":  "Porridge", "decimals":  18, "logoURI": "https://static.kodiak.finance/tokens/porridge.png", "tag": ["eco"]}
+  ,{"chainId": 80094, "address": "0x6536cEAD649249cae42FC9bfb1F999429b3ec755", "symbol": "NAV", "name":  "NAVFinance", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nav.png", "tag": ["eco"]}
+  ,{"chainId": 80094, "address": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5", "symbol": "HENLO", "name":  "henlo", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/henlo.png", "tag": ["meme"]}
+  ,{"chainId": 80094, "address": "0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb", "symbol": "stBGT", "name":  "stBGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stbgt.png", "tag": ["bera"]}
+  ,{"chainId": 80094, "address": "0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227", "symbol": "BITCOIN", "name":  "HarryPotterObamaSonic10Inu", "decimals":  8, "logoURI": "https://static.kodiak.finance/tokens/hpos10i.png", "tag": ["meme"]}
+  ,{"chainId": 80094, "address": "0xbf2E152f460090aCE91A456e3deE5ACf703f27aD", "symbol": "PRG", "name":  "Porridge", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/porridge.png", "tag": ["eco"]}
+  ,{"chainId": 80094, "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6", "symbol": "USDbr", "name": "USDbr", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usdbr.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c", "symbol": "NOME", "name": "NOME", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nome.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9", "symbol": "USR", "name": "Resolv USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usr.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9", "symbol": "RLP", "name": "Resolv Liquidity Provider Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/rlp.png", "tags": []}
+  ,{"chainId": 80094, "address": "0x2416092f143378750bb29b79eD961ab195CcEea5", "symbol": "ezETH", "name": "Renzo Restaked ETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ezeth.png", "tags": ["eth"]}
+  ,{"chainId": 80094, "address": "0x5475611Dffb8ef4d697Ae39df9395513b6E947d7", "symbol": "srUSD", "name": "Savings rUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/srusd.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead", "symbol": "BREAD", "name": "Bread", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bread.png", "tags": ["bera"]}
   ],
-  "timestamp": "2025-03-06T00:00:00Z",
+  "timestamp": "2025-03-20T00:00:00Z",
   "version": {
-    "major": 19,
-    "minor": 13,
+    "major": 20,
+    "minor": 20,
     "patch": 1
   }
 }

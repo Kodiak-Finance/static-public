@@ -1,0 +1,55 @@
+{
+  "name": "Kodiak Bepolia Default List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "kodiak"
+  ],
+  "tags": {
+    "major": {
+      "name": "Major",
+      "description": "Major tokens"
+    },
+    "usd": {
+      "name": "USD",
+      "description": "Tokens correlated to USD"
+    },
+    "btc": {
+      "name": "BTC",
+      "description": "Tokens correlated to Bitcoin"
+    },
+    "eth": {
+      "name": "ETH",
+      "description": "Tokens correlated to Ether"
+    },
+    "eco": {
+      "name": "Eco",
+      "description": "Bera Ecosystem Tokens"
+    },
+    "meme": {
+      "name": "Meme",
+      "description": "Non Panda Memecoins"
+    },
+    "bera": {
+      "name": "Bera",
+      "description": "Tokens correlated to BERA"
+    },
+    "test": {
+      "name": "Test",
+      "description": "Test tokens"
+    }
+  },
+  "tokens": [
+   {"chainId": 80069, "address": "0x6969696969696969696969696969696969696969", "symbol": "WBERA", "name": "Wrapped Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wbera.png", "tags": ["bera"]}
+  ,{"chainId": 80069, "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce", "symbol": "HONEY", "name": "Honey", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/honey.png", "tags": ["usd"]}
+  ,{"chainId": 80069, "address": "0x0612959032728dBb0C1341D58230D27474724f23", "symbol": "KUSD", "name": "Kodiak USD Mock", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kusd.png", "tags": ["usd"]}
+  ,{"chainId": 80069, "address": "0x9fd343150Ca0aBb713cf5Edbbbb718DF0180e9d7", "symbol": "THING", "name": "THING", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/thing.png", "tags": []}
+  ,{"chainId": 80069, "address": "0x7ddEDC2Ab8D318BeaE33FB8ccE9d9ef3BE66d2Af", "symbol": "BTHM", "name": "BEARITHM", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bthm.png", "tags": []}
+  
+  ],
+  "timestamp": "2025-03-18T00:00:00Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
