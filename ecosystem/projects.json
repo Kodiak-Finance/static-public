@@ -200,12 +200,19 @@
       "description": "DeFi Strategies made simple. Fully automated yield vaults.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/jones.png",
       "link": "https://jonesdao.io/"
+    },
+    {
+      "name": "Stride",
+      "category": "Liquid Staking",
+      "description": "Stride provides liquid staking for Berachain's native governance token, BGT (stBGT)",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/stride.png",
+      "link": "https://bera.stride.zone/"
     }
   ],
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   }
 }
