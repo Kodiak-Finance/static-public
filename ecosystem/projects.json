@@ -131,7 +131,8 @@
       "description": "Stargate is the canonical bridge provider for all USDC and WETH into Berachain",
       "logoURI": "",
       "link": "https://stargate.finance//"
-    },{
+    },
+    {
       "name": "Dahlia",
       "category": "Lending",
       "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
@@ -195,6 +196,18 @@
       "link": "https://beradrome.com"
     },
     {
+      "name": "JBAN",
+      "category": "Gamblefi",
+      "description": "A memecoin institution helping Bera to $0 ",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/jbancoin.png",
+      "link": "https://jban.tech"
+    },
+    {
+      "name": "Beardiction",
+      "category": "Gamblefi",
+      "description": "Beardiction is an innonative platform dedicated to celebrating and exploring the world of beards. From grooming tips to style inspiration, Beardiction offers an unique space for beard enthusiasts to connect, share, and embrace their facial hair journey with passion and creativity.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/beardiction.png",
+      "link": "https://www.beardiction.xyz"
       "name": "Jones",
       "category": "Structured Products",
       "description": "DeFi Strategies made simple. Fully automated yield vaults.",
@@ -202,16 +215,10 @@
       "link": "https://jonesdao.io/"
     }
   ],
-  "timestamp": "2025-03-06T00:00:00Z",
+  "timestamp": "2025-03-022T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 4,
+    "minor": 5,
     "patch": 1
   }
-}{
-  "name": "JBAN",
-  "category": "Gamblefi",
-  "description": "A memecoin institution helping Bera to $0 ",
-  "logoURI": "https://static.kodiak.finance/ecosystem/logo/jbancoin.png",
-  "link": "https://jban.tech"
 }
