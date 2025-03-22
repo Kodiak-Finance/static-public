@@ -205,7 +205,13 @@
   "timestamp": "2025-03-06T00:00:00Z",
   "version": {
     "major": 6,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   }
+}{
+  "name": "JBAN",
+  "category": "Gamblefi",
+  "description": "A memecoin institution helping Bera to $0 ",
+  "logoURI": "https://static.kodiak.finance/ecosystem/logo/jbancoin.png",
+  "link": "https://jban.tech"
 }
