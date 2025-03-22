@@ -83,6 +83,7 @@
   ,{"chainId": 80094, "address": "0x1f7210257fa157227d09449229a9266b0d581337", "symbol": "BERAMO", "name": "BeramoniumCoin", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/beramo.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x6BAd2A58927198F8D39A90625699c2A3c9bDd4ce", "symbol": "BBLAST", "name": "Blast on Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bblast.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x18878Df23e2a36f81e820e4b47b4A40576D3159C", "symbol": "OHM", "name": "Olympus", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/ohm.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0x69f1E971257419B1E9C405A553f252c64A29A30a", "symbol": "oriBGT", "name": "Origami iBGT Auto-Compounder", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/oribgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b", "symbol": "iBGT", "name": "Infrared BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5", "symbol": "iBERA", "name": "Infrared BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x7EaAE3754b32CCA569CDeAD488739AAe110076Ec", "symbol": "WAGMI", "name": "Wagmi", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wagmipad.png", "tags": ["bera"]}
