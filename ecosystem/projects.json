@@ -196,13 +196,6 @@
       "link": "https://beradrome.com"
     },
     {
-      "name": "JBAN",
-      "category": "Gamblefi",
-      "description": "A memecoin institution helping Bera to $0 ",
-      "logoURI": "https://static.kodiak.finance/ecosystem/logo/jbancoin.png",
-      "link": "https://jban.tech"
-    },
-    {
       "name": "Beardiction",
       "category": "Gamblefi",
       "description": "Beardiction is an innonative platform dedicated to celebrating and exploring the world of beards. From grooming tips to style inspiration, Beardiction offers an unique space for beard enthusiasts to connect, share, and embrace their facial hair journey with passion and creativity.",
@@ -219,8 +212,8 @@
   ],
   "timestamp": "2025-03-022T00:00:00Z",
   "version": {
-    "major": 6,
-    "minor": 5,
+    "major": 7,
+    "minor": 0,
     "patch": 1
   }
 }
