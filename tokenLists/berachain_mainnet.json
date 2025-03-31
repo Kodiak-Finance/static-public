@@ -110,6 +110,7 @@
   ,{"chainId": 80094, "address": "0x2416092f143378750bb29b79eD961ab195CcEea5", "symbol": "ezETH", "name": "Renzo Restaked ETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ezeth.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0x5475611Dffb8ef4d697Ae39df9395513b6E947d7", "symbol": "srUSD", "name": "Savings rUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/srusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead", "symbol": "BREAD", "name": "Bread", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bread.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0xaB7e0f3D69DE8061aa46D7C9964DbC11878468eB", "symbol": "BRLY", "name": "Berally Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/berally.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xBaadCC2962417C01Af99fb2B7C75706B9bd6Babe", "symbol": "LBGT", "name": "Liquid BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/lbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xC99e948E9D183848a6c4F5E6C1d225F02f171d79", "symbol": "POLLEN", "name": "POLLEN", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pollen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x01C8A5ccAD23A4D3764eF71c403862160Aa2913a", "symbol": "WIZZ", "name": "Wizzwoods Tokens", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wizz.png", "tags": ["eco"]}
