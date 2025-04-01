@@ -117,11 +117,14 @@
   ,{"chainId": 80094, "address": "0x01C8A5ccAD23A4D3764eF71c403862160Aa2913a", "symbol": "WIZZ", "name": "Wizzwoods Tokens", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wizz.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e", "symbol": "BIXBT", "name": "BeraXBT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/beraxbt.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x7e768f47dfDD5DAe874Aac233f1Bc5817137E453", "symbol": "yBGT", "name": "Bearn BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ybgt.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x89d2E832EDaAfF8C228A57a1602a1f7950Ea2D39", "symbol": "AVL", "name": "AVL", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/avl.png", "tags": ["eco"]},
+  ,{"chainId": 80094, "address": "0x417b0ff8358eb72867da92225cab99bcd5e6f205", "symbol": "pufETH", "name": "pufETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pufeth.png", "tags": ["eth"]}
+
   ],
-  "timestamp": "2025-03-31T00:00:00Z",
+  "timestamp": "2025-04-01T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 23,
+    "minor": 24,
     "patch": 2
   }
 }
