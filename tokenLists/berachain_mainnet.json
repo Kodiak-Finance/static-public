@@ -120,11 +120,12 @@
   ,{"chainId": 80094, "address": "0x89d2E832EDaAfF8C228A57a1602a1f7950Ea2D39", "symbol": "AVL", "name": "AVL", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/avl.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x417b0ff8358eb72867da92225cab99bcd5e6f205", "symbol": "pufETH", "name": "pufETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pufeth.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087", "symbol": "BR", "name": "Bedrock", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bedrock.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xD2C41BF4033A83C0FC3A7F58a392Bf37d6dCDb58", "symbol": "osBGT", "name": "OpenState BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/osbgt.png", "tags": ["bera"]}
   ],
-  "timestamp": "2025-04-02T00:00:00Z",
+  "timestamp": "2025-04-04T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 26,
+    "minor": 27,
     "patch": 2
   }
 }
