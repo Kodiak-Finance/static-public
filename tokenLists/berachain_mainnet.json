@@ -122,6 +122,7 @@
   ,{"chainId": 80094, "address": "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087", "symbol": "BR", "name": "Bedrock", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bedrock.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xD2C41BF4033A83C0FC3A7F58a392Bf37d6dCDb58", "symbol": "osBGT", "name": "OpenState BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/osbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956", "symbol": "OOGA", "name": "Ooga Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ooga.png", "tags": ["bera"]}
+    ,{"chainId": 80094, "address": "0xcA9088895e3390E503cac9ae95abaccdba20822e", "symbol": "GRQ", "name": "GetRichQuick", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/grq.png", "tags": ["bera"]}
   ],
   "timestamp": "2025-04-04T00:00:00Z",
   "version": {
