@@ -52,7 +52,7 @@
   ,{"chainId": 80094, "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34", "symbol": "rUSD", "name": "Reservoir Stablecoin", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/reservoir.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116", "symbol": "SBTC", "name": "StakeStone Bitcoin", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77", "symbol": "SolvBTC", "name": "Solv BTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtc.png", "tags": ["btc"]}
-  ,{"chainId": 80094, "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c", "symbol": "SolvBTC.BBN", "name": "SolvBTC Babylon", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtcbbn.png", "tags": ["btc"]}
+  ,{"chainId": 80094, "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c", "symbol": "xSolvBTC", "name": "xSolvBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtcbbn.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xA01cB564ecc3F58a4e2bA5fD59d13a6b998de9b8", "symbol": "SolvBTC.BBN-OT", "name": "SolvBTC.BBN OT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3", "symbol": "stBTC", "name": "Lorenzo stBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3", "symbol": "STONE", "name": "StakeStone Ether", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stone.png", "tags": ["eth"]}
@@ -123,11 +123,15 @@
   ,{"chainId": 80094, "address": "0xD2C41BF4033A83C0FC3A7F58a392Bf37d6dCDb58", "symbol": "osBGT", "name": "OpenState BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/osbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956", "symbol": "OOGA", "name": "Ooga Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ooga.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xb7E448E5677D212B8C8Da7D6312E8Afc49800466", "symbol": "LOCKS", "name": "Locks", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/locks.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xcA9088895e3390E503cac9ae95abaccdba20822e", "symbol": "GRQ", "name": "GetRichQuick", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/grq.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x982940eBfC5caa2F5b5a82AAc2Dfa99F18BB7dA4", "symbol": "yBERA", "name": "Bearn BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ybera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x03c86e21623f25Eca0eA544890c7603B9a33E1AC", "symbol": "pPAW", "name": "Pre-TGE Paw", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ppaw.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x7203fB920421170Cc4Da001d758fdE8f391A0570", "symbol": "deUSD", "name": "deUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/deusd.png", "tags": ["usd"]}
   ],
-  "timestamp": "2025-04-04T00:00:00Z",
+  "timestamp": "2025-04-12T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 29,
-    "patch": 3
+    "minor": 32,
+    "patch": 4
   }
 }
