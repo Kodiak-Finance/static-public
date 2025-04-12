@@ -125,13 +125,13 @@
   ,{"chainId": 80094, "address": "0xb7E448E5677D212B8C8Da7D6312E8Afc49800466", "symbol": "LOCKS", "name": "Locks", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/locks.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcA9088895e3390E503cac9ae95abaccdba20822e", "symbol": "GRQ", "name": "GetRichQuick", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/grq.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x982940eBfC5caa2F5b5a82AAc2Dfa99F18BB7dA4", "symbol": "yBERA", "name": "Bearn BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ybera.png", "tags": ["bera"]}
-  ,{"chainId": 80094, "address": "0x03c86e21623f25Eca0eA544890c7603B9a33E1AC", "symbol": "pPAW", "name": "Pre-TGE Paw", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ppaw.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x03c86e21623f25Eca0eA544890c7603B9a33E1AC", "symbol": "pPAW", "name": "Pre-TGE Paw", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/paw.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x7203fB920421170Cc4Da001d758fdE8f391A0570", "symbol": "deUSD", "name": "deUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/deusd.png", "tags": ["usd"]}
   ],
   "timestamp": "2025-04-12T00:00:00Z",
   "version": {
     "major": 20,
     "minor": 32,
-    "patch": 4
+    "patch": 5
   }
 }
