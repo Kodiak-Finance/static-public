@@ -133,6 +133,12 @@
       "link": "https://stargate.finance"
     },
     {
+      "name": "Symbiosis",
+      "category": "Infrastructure",
+      "description": "Symbiosis is a cross-chain AMM DEX that pools together liquidity from different networks: L1s and L2s, EVM and non-EVM. With Symbiosis, you can easily swap any token and move your assets across different networks.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/symbiosis.png",
+      "link": "https://symbiosis.finance"
+    },
       "name": "Dahlia",
       "category": "Lending",
       "description": "Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop the Royco Protocol.",
