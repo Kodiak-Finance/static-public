@@ -229,12 +229,19 @@
       "description": "Magpie Protocol is a swap execution engine for traders, agents and dapps. It aggregates liquidity on DEXs, DeFi protocols, and bridges across 18+ chains, optimizing transaction routes to provide better pricing on swaps with an optimal UX.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/magpieprotocol.png",
       "link": "https://www.magpiefi.xyz"
+    },
+    {
+      "name": "Stride",
+      "category": "Liquid Staking",
+      "description": "Stride provides liquid staking for Berachain's native governance token, BGT (stBGT)",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/stride.png",
+      "link": "https://bera.stride.zone/"
     }
   ],
   "timestamp": "2025-04-02T00:00:00Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
