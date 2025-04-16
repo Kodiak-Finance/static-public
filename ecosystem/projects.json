@@ -14,6 +14,13 @@
   ],
   "ecosystem": [
     {
+      "name": "USDT0",
+      "category": "Stablecoin",
+      "description": "USDT0 is the canonical USDT stablecoin on Berachain.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/usdt0.png",
+      "link": "https://usdt0.to/"
+    },
+    {
       "name": "Dinero",
       "category": "Liquid Staking",
       "description": "Dinero is the team behind beraETH, a high-yield, Berachain-native ETH liquid staking token.",
