@@ -129,11 +129,12 @@
   ,{"chainId": 80094, "address": "0x7203fB920421170Cc4Da001d758fdE8f391A0570", "symbol": "deUSD", "name": "deUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/deusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e", "symbol": "brBTC", "name": "brBTC", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/brbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C", "symbol": "xUSD", "name": "Staked Stream USD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/xusd.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654", "symbol": "DOLO", "name": "Dolomite", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/dolo.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-04-16T00:00:00Z",
+  "timestamp": "2025-04-24T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 33,
+    "minor": 34,
     "patch": 5
   }
 }
