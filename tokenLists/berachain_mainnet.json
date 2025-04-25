@@ -132,6 +132,7 @@
   ,{"chainId": 80094, "address": "0xf3530788DEB3d21E8fA2c3CBBF93317FB38a0D3C", "symbol": "LAIR", "name": "Lair", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/lair.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654", "symbol": "DOLO", "name": "Dolomite", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/dolo.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x02E513b5B54eE216Bf836ceb471507488fC89543", "symbol": "oDOLO", "name": "oDOLO Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/dolo.png", "tags": ["eco"]}
+  ,{"chainId": 80069, "address": "0xE368a6BBb2c285A557800FF676D85Dd7E9C6299B", "symbol": "beraBTC", "name": "Bera Bitcoin", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/berabtc.png", "tags": ["btc"]}
   ],
   "timestamp": "2025-04-24T00:00:00Z",
   "version": {
