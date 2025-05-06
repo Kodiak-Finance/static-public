@@ -136,11 +136,12 @@
   ,{"chainId": 80094, "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f", "symbol": "ELITE", "name": "Eliteness.Network", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/eliteness.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xDf486980Df72446a5efF76263eFb2Fa9391Be136", "symbol": "fBOMB", "name": "Fantom Bomb", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/fbomb.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f", "symbol": "AIBERA", "name": "HoneyFun AI", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/aibera.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB", "symbol": "STG", "name": "StargateToken", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stg.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-04-29T00:00:00Z",
+  "timestamp": "2025-04-30T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 38,
+    "minor": 39,
     "patch": 0
   }
 }
