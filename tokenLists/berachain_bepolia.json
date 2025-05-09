@@ -44,7 +44,7 @@
   ,{"chainId": 80069, "address": "0x0612959032728dBb0C1341D58230D27474724f23", "symbol": "KUSD", "name": "Kodiak USD Mock", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kusd.png", "tags": ["usd"]}
   ,{"chainId": 80069, "address": "0x9fd343150Ca0aBb713cf5Edbbbb718DF0180e9d7", "symbol": "THING", "name": "THING", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/thing.png", "tags": []}
   ,{"chainId": 80069, "address": "0x7ddEDC2Ab8D318BeaE33FB8ccE9d9ef3BE66d2Af", "symbol": "BTHM", "name": "BEARITHM", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bthm.png", "tags": []}
-  
+  ,{"chainId": 80069, "address": "0xB9A961Bb6B26179c2bD66C21cA2A6f61952e1e48", "symbol": "beraBTC", "name": "bera Bitcoin", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/berabtc.png", "tags": ["btc"]}
   ],
   "timestamp": "2025-03-18T00:00:00Z",
   "version": {
