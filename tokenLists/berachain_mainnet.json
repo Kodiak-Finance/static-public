@@ -140,10 +140,10 @@
   ,{"chainId": 80094, "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB", "symbol": "STG", "name": "StargateToken", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stg.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcAc89B3F94eD6BAb04113884deeE2A55293c2DD7", "symbol": "xfatBERA", "name": "Extra FatBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xfatbera.png", "tags": ["bera"]}
   ],
-  "timestamp": "2025-05-10T00:00:00Z",
+  "timestamp": "2025-05-13T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 40,
+    "minor": 41,
     "patch": 0
   }
 }
