@@ -138,7 +138,8 @@
   ,{"chainId": 80094, "address": "0xDf486980Df72446a5efF76263eFb2Fa9391Be136", "symbol": "fBOMB", "name": "Fantom Bomb", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/fbomb.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB", "symbol": "STG", "name": "StargateToken", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stg.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcAc89B3F94eD6BAb04113884deeE2A55293c2DD7", "symbol": "xfatBERA", "name": "Extra FatBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xfatbera.png", "tags": ["bera"]}
-  ],
+  ,{"chainId": 80094, "address": "0xedb5180661f56077292c92ab40b1ac57a279a396", "symbol": "MEAD", "name": "Mead", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mead.png", "tags": ["usd"]}
+],
   "timestamp": "2025-05-10T00:00:00Z",
   "version": {
     "major": 20,
