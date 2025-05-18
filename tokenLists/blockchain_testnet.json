@@ -12,7 +12,7 @@
   "tokens": [
     {
       "chainId": 6231991,
-      "address": "0xB81888b51F6BBCA93e09c7f1C699aF04a14Daed7",
+      "address": "0x12B0146068E8bC3935639e847B06c64737B34c7E",
       "symbol": "WBITCOIN",
       "name": "Wrapped BITCOIN",
       "decimals": 18,
@@ -21,7 +21,7 @@
     },
     {
       "chainId": 6231991,
-      "address": "0x843797d0A118F960EC5A3396b93c25918d82a5f1",
+      "address": "0x0458E6a7e3F8190AaB1e7862a57f47fc4b4e0315",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -30,7 +30,7 @@
     },
     {
       "chainId": 6231991,
-      "address": "0x01ABb03e79c5E090d9621fCea2A93770aaB88D53",
+      "address": "0x92aEDDaBb4Eb2A5b17d90bF6fF70b58227098E03",
       "symbol": "BERA",
       "name": "Bera",
       "decimals": 18,
@@ -39,7 +39,7 @@
     },
     {
       "chainId": 6231991,
-      "address": "0xeda89b957E6cC0f15aB27307A386370814629FEe",
+      "address": "0x89022599570c32a0754dAC2Fb5843980d15F03d3",
       "symbol": "WBERA",
       "name": "Wrapped Bera",
       "decimals": 18,
@@ -48,7 +48,7 @@
     },
     {
       "chainId": 6231991,
-      "address": "0x1E9cc7764D7974D2F15f6B4AD3DD1f2e47892fBF",
+      "address": "0x8F5ecfe14FC9F1938a0C2875bfBA825C97700ADe",
       "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
@@ -57,7 +57,7 @@
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 1,
     "patch": 0
   }
