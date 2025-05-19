@@ -142,14 +142,23 @@
   ,{"chainId": 80094, "address": "0xDf486980Df72446a5efF76263eFb2Fa9391Be136", "symbol": "fBOMB", "name": "Fantom Bomb", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/fbomb.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f", "symbol": "AIBERA", "name": "HoneyFun AI", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/aibera.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB", "symbol": "STG", "name": "StargateToken", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stg.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x63CA3e797CBbCB16b1875D42b4869Af7D328d820", "symbol": "AAPL", "name": "twin Apple Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/aapl.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0xCB700b56226D3b28a3b897c6Ce8881bbfB22D2F8", "symbol": "iAAPL", "name": "twin Apple Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/iaapl.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0x1De7EfAbfA656d077cFD961e4a83b061D351a83B", "symbol": "NVDA", "name": "twin Nvidia Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nvda.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0x3A4B2d07c237C701c68238dA07E11302353A16F1", "symbol": "iNVDA", "name": "twin Nvidia Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/invda.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0x65967109401506222609BDc86e3039F910C4d08b", "symbol": "COIN", "name": "twin Coinbase Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/coin.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0x9EA30078bc52740F10812539E77B6502A2a5387a", "symbol": "iCOIN", "name": "twin Coinbase Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/icoin.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0x80d6206c800a6EDe51eC52fE724DF57fa4B4410B", "symbol": "MSTR", "name": "twin Microstrategy Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mstr.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0xE5a08b6F213a7c530E03Ad40522BefcBAa1A7f8C", "symbol": "iMSTR", "name": "twin Microstrategy Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/imstr.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0xcAc89B3F94eD6BAb04113884deeE2A55293c2DD7", "symbol": "xfatBERA", "name": "Extra FatBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xfatbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0xedb5180661f56077292c92ab40b1ac57a279a396", "symbol": "MEAD", "name": "Mead", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mead.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8", "symbol": "TRAX", "name": "BeraTrax", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/trax.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0", "symbol": "eWBERA-4", "name": "EVK Vault eWBERA-4", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wbera.png", "tags": ["bera"]}
   ],
   "timestamp": "2025-05-19T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 43,
+    "minor": 44,
     "patch": 0
   }
 }
