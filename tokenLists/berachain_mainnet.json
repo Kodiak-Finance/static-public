@@ -33,6 +33,10 @@
       "name": "Bera",
       "description": "Tokens correlated to BERA"
     },
+    "rwa": {
+      "name": "RWA",
+      "description": "Tokens correlated to non-crypto assets"
+    },
     "test": {
       "name": "Test",
       "description": "Test tokens"
@@ -129,12 +133,14 @@
   ,{"chainId": 80094, "address": "0x7203fB920421170Cc4Da001d758fdE8f391A0570", "symbol": "deUSD", "name": "deUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/deusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e", "symbol": "brBTC", "name": "brBTC", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/brbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C", "symbol": "xUSD", "name": "Staked Stream USD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/xusd.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0xd95dde5c738c9e11f9a92493da51c3fb09d204b2", "symbol": "BARIFF", "name": "BARIFF", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bariff.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xf3530788DEB3d21E8fA2c3CBBF93317FB38a0D3C", "symbol": "LAIR", "name": "Lair", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/lair.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654", "symbol": "DOLO", "name": "Dolomite", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/dolo.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x02E513b5B54eE216Bf836ceb471507488fC89543", "symbol": "oDOLO", "name": "oDOLO Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/dolo.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xE368a6BBb2c285A557800FF676D85Dd7E9C6299B", "symbol": "beraBTC", "name": "Bera Bitcoin", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/berabtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f", "symbol": "ELITE", "name": "Eliteness.Network", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/eliteness.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xDf486980Df72446a5efF76263eFb2Fa9391Be136", "symbol": "fBOMB", "name": "Fantom Bomb", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/fbomb.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f", "symbol": "AIBERA", "name": "HoneyFun AI", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/aibera.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB", "symbol": "STG", "name": "StargateToken", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stg.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x63CA3e797CBbCB16b1875D42b4869Af7D328d820", "symbol": "AAPL", "name": "twin Apple Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/aapl.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0xCB700b56226D3b28a3b897c6Ce8881bbfB22D2F8", "symbol": "iAAPL", "name": "twin Apple Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/iaapl.png", "tags": ["rwa"]}
@@ -144,12 +150,14 @@
   ,{"chainId": 80094, "address": "0x9EA30078bc52740F10812539E77B6502A2a5387a", "symbol": "iCOIN", "name": "twin Coinbase Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/icoin.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0x80d6206c800a6EDe51eC52fE724DF57fa4B4410B", "symbol": "MSTR", "name": "twin Microstrategy Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mstr.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0xE5a08b6F213a7c530E03Ad40522BefcBAa1A7f8C", "symbol": "iMSTR", "name": "twin Microstrategy Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/imstr.png", "tags": ["rwa"]}
-
+  ,{"chainId": 80094, "address": "0xcAc89B3F94eD6BAb04113884deeE2A55293c2DD7", "symbol": "xfatBERA", "name": "Extra FatBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xfatbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0xedb5180661f56077292c92ab40b1ac57a279a396", "symbol": "MEAD", "name": "Mead", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mead.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8", "symbol": "TRAX", "name": "BeraTrax", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/trax.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-04-30T00:00:00Z",
+  "timestamp": "2025-05-19T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 38,
+    "minor": 44,
     "patch": 0
   }
 }
