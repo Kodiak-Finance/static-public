@@ -33,6 +33,10 @@
       "name": "Bera",
       "description": "Tokens correlated to BERA"
     },
+    "rwa": {
+      "name": "RWA",
+      "description": "Tokens correlated to non-crypto assets"
+    },
     "test": {
       "name": "Test",
       "description": "Test tokens"
@@ -140,11 +144,12 @@
   ,{"chainId": 80094, "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB", "symbol": "STG", "name": "StargateToken", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stg.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcAc89B3F94eD6BAb04113884deeE2A55293c2DD7", "symbol": "xfatBERA", "name": "Extra FatBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xfatbera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8", "symbol": "TRAX", "name": "BeraTrax", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/trax.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0", "symbol": "eWBERA-4", "name": "EVK Vault eWBERA-4", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wbera.png", "tags": ["bera"]}
   ],
   "timestamp": "2025-05-19T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 42,
+    "minor": 43,
     "patch": 0
   }
 }
