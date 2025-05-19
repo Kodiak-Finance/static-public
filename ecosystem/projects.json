@@ -236,12 +236,19 @@
       "description": "Stride provides liquid staking for Berachain's native governance token, BGT (stBGT)",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/stride.png",
       "link": "https://bera.stride.zone/"
+    },
+    {
+      "name": "Roots",
+      "category": "Lending",
+      "description": "Roots is a decentralized finance (DeFi) protocol built on Berachain that enhances liquidity and yield opportunities through Proof of Liquidity (PoL).",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/roots.png",
+      "link": "https://rootsfi.com/"
     }
   ],
-  "timestamp": "2025-04-02T00:00:00Z",
+  "timestamp": "2025-05-19T00:00:00Z",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
