@@ -154,11 +154,12 @@
   ,{"chainId": 80094, "address": "0xedb5180661f56077292c92ab40b1ac57a279a396", "symbol": "MEAD", "name": "Mead", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mead.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8", "symbol": "TRAX", "name": "BeraTrax", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/trax.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0", "symbol": "eWBERA-4", "name": "EVK Vault eWBERA-4", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ewbera4.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x0000382FbB422B4f593931FC6f2d25CC16600000", "symbol": "ZERO", "name": "Zero", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/zero.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-05-19T00:00:00Z",
+  "timestamp": "2025-06-12T00:00:00Z",
   "version": {
     "major": 20,
-    "minor": 45,
+    "minor": 46,
     "patch": 0
   }
 }
