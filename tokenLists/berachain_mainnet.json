@@ -164,10 +164,10 @@
   ,{"chainId": 80094, "address": "0x5bAd2b7A0A2eEE88A4ef05d5470cdEdB0ff948EA", "symbol": "hOHM", "name": "Origami hOHM", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/hohm.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x225B86198ba36321a8A840291416aEd62494043f", "symbol": "SOL", "name": "Wrapped Sol", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/sol.png", "tags": ["alt"]}
   ],
-  "timestamp": "2025-06-13T00:00:00Z",
+  "timestamp": "2025-06-24T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 52,
+    "minor": 53,
     "patch": 0
   }
 }
