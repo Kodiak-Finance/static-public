@@ -61,6 +61,7 @@
   ,{"chainId": 80094, "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116", "symbol": "SBTC", "name": "StakeStone Bitcoin", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77", "symbol": "SolvBTC", "name": "Solv BTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c", "symbol": "xSolvBTC", "name": "xSolvBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtcbbn.png", "tags": ["btc"]}
+  ,{"chainId": 80094, "address": "0x1B25cA174c158440621Ff96E4B1262cb5cc8942F", "symbol": "SolvBTC.BNB", "name": "SolvBTC.BNB", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtcbnb.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xA01cB564ecc3F58a4e2bA5fD59d13a6b998de9b8", "symbol": "SolvBTC.BBN-OT", "name": "SolvBTC.BBN OT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3", "symbol": "stBTC", "name": "Lorenzo stBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3", "symbol": "STONE", "name": "StakeStone Ether", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stone.png", "tags": ["eth"]}
