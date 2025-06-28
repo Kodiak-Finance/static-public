@@ -243,6 +243,13 @@
       "description": "Roots is a decentralized finance (DeFi) protocol built on Berachain that enhances liquidity and yield opportunities through Proof of Liquidity (PoL).",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/roots.png",
       "link": "https://rootsfi.com/"
+    },
+    {
+      "name": "MadHoney",
+      "category": "Derivatives",
+      "description": "MadHoney is the ultimate playground for degens powered by the legendary $MAD token. Whether you're here to trade perps, stack rewards, or just vibe with the Mad Bears, you've made it to the right place.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/madhoney.png",
+      "link": "https://madhoney.fi/"
     }
   ],
   "timestamp": "2025-05-19T00:00:00Z",
