@@ -163,12 +163,12 @@
   ,{"chainId": 80094, "address": "0x0000382FbB422B4f593931FC6f2d25CC16600000", "symbol": "ZERO", "name": "Zero", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/zero.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x5bAd2b7A0A2eEE88A4ef05d5470cdEdB0ff948EA", "symbol": "hOHM", "name": "Origami hOHM", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/hohm.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x225B86198ba36321a8A840291416aEd62494043f", "symbol": "SOL", "name": "Wrapped Sol", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/sol.png", "tags": ["alt"]}
-  ,{"chainId": 80094, "address": "0x927439eEf2e2520aFa78D8742cAe7Be3e3e90B11", "symbol": "mBGT", "name": "market BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/miso-bgt.svg", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x927439eEf2e2520aFa78D8742cAe7Be3e3e90B11", "symbol": "mBGT", "name": "market BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mbgt.png", "tags": ["bera"]}
   ],
-  "timestamp": "2025-06-26T00:00:00Z",
+  "timestamp": "2025-06-30T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 54,
+    "minor": 55,
     "patch": 0
   }
 }
