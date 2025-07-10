@@ -96,7 +96,6 @@
   ,{"chainId": 80094, "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b", "symbol": "iBGT", "name": "Infrared BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5", "symbol": "iBERA", "name": "Infrared BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ibera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x7EaAE3754b32CCA569CDeAD488739AAe110076Ec", "symbol": "WAGMI", "name": "Wagmi", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wagmipad.png", "tags": ["bera"]}
-  ,{"chainId": 80094, "address": "0x3b3dd22625128Ff1548110f9B7Bc702F540668e2", "symbol": "gBERA", "name": "gBERA Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/gbera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x8bf591eae535f93a242d5a954d3cde648b48a5a8", "symbol": "suUSD", "name": "Sumerian USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/suusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0", "symbol": "suETH", "name": "Sumerian ETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sueth.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711", "symbol": "suBTC", "name": "Sumerian BTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/subtc.png", "tags": ["btc"]}
@@ -164,12 +163,11 @@
   ,{"chainId": 80094, "address": "0x225B86198ba36321a8A840291416aEd62494043f", "symbol": "SOL", "name": "Wrapped Sol", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/sol.png", "tags": ["alt"]}
   ,{"chainId": 80094, "address": "0x927439eEf2e2520aFa78D8742cAe7Be3e3e90B11", "symbol": "mBGT", "name": "market BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x77Eac52f8D0B5c066B6d6B46211cc9aB47db464F", "symbol": "MAD", "name": "Mad Honey", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mad.png", "tags": ["eco"]}
-  ,{"chainId": 80094, "address": "0x6F3E9215926ab700669f0F5131f0e75bb0FAD1ac", "symbol": "BERRIES", "name": "Berries", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/beraberries.png", "tags": ["meme"]}
   ],
-  "timestamp": "2025-07-09T00:00:00Z",
+  "timestamp": "2025-07-10T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 56,
+    "minor": 57,
     "patch": 0
   }
 }
