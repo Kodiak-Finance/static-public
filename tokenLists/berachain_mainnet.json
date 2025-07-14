@@ -39,7 +39,7 @@
     },
     "rwa": {
       "name": "RWA",
-      "description": "Tokens correlated to non-crypto assets"
+      "description": "Tokens correlated to non crypto assets"
     },
     "test": {
       "name": "Test",
@@ -107,11 +107,11 @@
   ,{"chainId": 80094, "address": "0xA452810A4215fCCC834ED241e6667f519b9856EC", "symbol": "BBOT", "name": "Berabot", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/berabot.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82", "symbol": "BYUSD", "name": "BYUSD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/byusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x047b41A14F0BeF681b94f570479AE7208E577a0C", "symbol": "HIM", "name": "Honey Is Money", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/him.png", "tags": ["meme"]}
-  ,{"chainId": 80094, "address": "0x6536cEAD649249cae42FC9bfb1F999429b3ec755", "symbol": "NAV", "name":  "NavFinance", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nav.png", "tag": ["eco"]}
-  ,{"chainId": 80094, "address": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5", "symbol": "HENLO", "name":  "henlo", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/henlo.png", "tag": ["meme"]}
-  ,{"chainId": 80094, "address": "0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb", "symbol": "stBGT", "name":  "stBGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stbgt.png", "tag": ["bera"]}
-  ,{"chainId": 80094, "address": "0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227", "symbol": "BITCOIN", "name":  "HarryPotterObamaSonic10Inu", "decimals":  8, "logoURI": "https://static.kodiak.finance/tokens/hpos10i.png", "tag": ["meme"]}
-  ,{"chainId": 80094, "address": "0xbf2E152f460090aCE91A456e3deE5ACf703f27aD", "symbol": "PRG", "name":  "Porridge", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/porridge.png", "tag": ["eco"]}
+  ,{"chainId": 80094, "address": "0x6536cEAD649249cae42FC9bfb1F999429b3ec755", "symbol": "NAV", "name":  "NavFinance", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nav.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5", "symbol": "HENLO", "name":  "henlo", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/henlo.png", "tags": ["meme"]}
+  ,{"chainId": 80094, "address": "0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb", "symbol": "stBGT", "name":  "stBGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stbgt.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227", "symbol": "BITCOIN", "name":  "HarryPotterObamaSonic10Inu", "decimals":  8, "logoURI": "https://static.kodiak.finance/tokens/hpos10i.png", "tags": ["meme"]}
+  ,{"chainId": 80094, "address": "0xbf2E152f460090aCE91A456e3deE5ACf703f27aD", "symbol": "PRG", "name":  "Porridge", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/porridge.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6", "symbol": "USDbr", "name": "USDbr", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usdbr.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c", "symbol": "NOME", "name": "NOME", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nome.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9", "symbol": "USR", "name": "Resolv USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usr.png", "tags": ["usd"]}
