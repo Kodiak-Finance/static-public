@@ -163,12 +163,13 @@
   ,{"chainId": 80094, "address": "0x225B86198ba36321a8A840291416aEd62494043f", "symbol": "SOL", "name": "Wrapped Sol", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/sol.png", "tags": ["alt"]}
   ,{"chainId": 80094, "address": "0x927439eEf2e2520aFa78D8742cAe7Be3e3e90B11", "symbol": "mBGT", "name": "market BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x77Eac52f8D0B5c066B6d6B46211cc9aB47db464F", "symbol": "MAD", "name": "Mad Honey", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mad.png", "tags": ["eco"]}
-  ,{"chainId": 80094, "address": "0x656b95E550C07a9ffe548bd4085c72418Ceb1dba", "symbol": "BGT", "name": "Bera Governance Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bgt.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x656b95E550C07a9ffe548bd4085c72418Ceb1dba", "symbol": "BGT", "name": "Bera Governance Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bgt.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x118D2cEeE9785eaf70C15Cd74CD84c9f8c3EeC9a", "symbol": "sWBERA", "name": "POL Staked WBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bera.png", "tags": ["bera"]}
   ],
-  "timestamp": "2025-07-10T00:00:00Z",
+  "timestamp": "2025-07-23T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 57,
+    "minor": 58,
     "patch": 0
   }
 }
