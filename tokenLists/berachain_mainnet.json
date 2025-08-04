@@ -168,11 +168,12 @@
   ,{"chainId": 80094, "address": "0x7838CEc5B11298Ff6a9513Fa385621B765C74174", "symbol": "BERO", "name": "Beradrome", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bero.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x40A8d9efE6A2C6C9D193Cc0A4476767748E68133", "symbol": "oBERO", "name": "Beradrome Call Option", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/obero.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xca72Cf92768bc1ABEF4b14cFD3E096c8B5f54696", "symbol": "TSLAs", "name": "Tesla Inc Tokenized by Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/TSLAs.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0x3e5D85dD846B4Ca5A12Eb19eBd21d2798b724c36", "symbol": "SAIL", "name": "Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/SAIL.png", "tags": ["rwa"]}
   ],
-  "timestamp": "2025-07-30T00:00:00Z",
+  "timestamp": "2025-08-04T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 60,
+    "minor": 62,
     "patch": 0
   }
 }
