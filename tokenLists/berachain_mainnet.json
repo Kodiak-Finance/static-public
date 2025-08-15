@@ -77,7 +77,7 @@
   ,{"chainId": 80094, "address": "0x549943e04f40284185054145c6E4e9568C1D3241", "symbol": "USDC.e", "name": "Bridged USDC (Stargate)", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/usdc.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34", "symbol": "USDe", "name": "USDe", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/usde.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736", "symbol": "USDT0", "name": "USDT0", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/usdt0.png", "tags": ["usd"]}
-  ,{"chainId": 80094, "address": "0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b", "symbol": "waBTC", "name": "Wrapped aBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wabtc.png", "tags": ["btc", "legacy"]}
+  ,{"chainId": 80094, "address": "0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b", "symbol": "waBTC", "name": "Wrapped aBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wabtc.png", "tags": ["legacy"]}
   ,{"chainId": 80094, "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c", "symbol": "WBTC", "name": "Wrapped BTC", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/btc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590", "symbol": "WETH", "name": "WETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/eth.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0xE946Dd7d03F6F5C440F68c84808Ca88d26475FC5", "symbol": "ylBTCLST", "name": "CIAN yield layer BTCLST", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/ylbtclst.png", "tags": ["legacy"]}
@@ -175,7 +175,7 @@
   "timestamp": "2025-08-15T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 67,
+    "minor": 68,
     "patch": 0
   }
 }
