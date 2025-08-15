@@ -68,7 +68,7 @@
   ,{"chainId": 80094, "address": "0x1B25cA174c158440621Ff96E4B1262cb5cc8942F", "symbol": "SolvBTC.BNB", "name": "SolvBTC.BNB", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/solvbtcbnb.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0xA01cB564ecc3F58a4e2bA5fD59d13a6b998de9b8", "symbol": "SolvBTC.BBN-OT", "name": "SolvBTC.BBN OT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["legacy"]}
   ,{"chainId": 80094, "address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3", "symbol": "stBTC", "name": "Lorenzo stBTC", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stbtc.png", "tags": ["legacy"]}
-  ,{"chainId": 80094, "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3", "symbol": "STONE", "name": "StakeStone Ether", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stone.png", "tags": ["eth", ""]}
+  ,{"chainId": 80094, "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3", "symbol": "STONE", "name": "StakeStone Ether", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/stone.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f", "symbol": "sUSDa", "name": "USDa saving token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/susda.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2", "symbol": "sUSDe", "name": "Staked USDe", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/susde.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90", "symbol": "uniBTC", "name": "uniBTC", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/unibtc.png", "tags": ["btc"]}
@@ -175,7 +175,7 @@
   "timestamp": "2025-08-15T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 66,
+    "minor": 67,
     "patch": 0
   }
 }
