@@ -172,6 +172,7 @@
   ,{"chainId": 80094, "address": "0xca72Cf92768bc1ABEF4b14cFD3E096c8B5f54696", "symbol": "TSLAs", "name": "Tesla Inc Tokenized by Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/TSLAs.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0x3e5D85dD846B4Ca5A12Eb19eBd21d2798b724c36", "symbol": "SAIL", "name": "Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sail.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x334404782aB67b4F6B2A619873E579E971f9AAB7", "symbol": "wBYUSD", "name": "Wrapped BYUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/byusd.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0x76784090b565A5323C1A4F4B95C7354A3c1CD1eC", "symbol": "SUI", "name": "Wrapped SUI", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sui.png", "tags": ["sui"]}
   ],
   "timestamp": "2025-08-18T00:00:00Z",
   "version": {
