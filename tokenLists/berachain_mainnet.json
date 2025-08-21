@@ -156,28 +156,28 @@
   ,{"chainId": 80094, "address": "0x80d6206c800a6EDe51eC52fE724DF57fa4B4410B", "symbol": "MSTR", "name": "twin Microstrategy Long", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mstr.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0xE5a08b6F213a7c530E03Ad40522BefcBAa1A7f8C", "symbol": "iMSTR", "name": "twin Microstrategy Short", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/imstr.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0xcAc89B3F94eD6BAb04113884deeE2A55293c2DD7", "symbol": "xfatBERA", "name": "Extra FatBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xfatbera.png", "tags": ["bera"]}
-  ,{"chainId": 80094, "address": "0xedb5180661f56077292c92ab40b1ac57a279a396", "symbol": "MEAD", "name": "Mead", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mead.png", "tags": ["usd"]}
-  ,{"chainId": 80094, "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8", "symbol": "TRAX", "name": "Trax", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/trax.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xedb5180661f56077292c92ab40b1ac57a279a396", "symbol": "MEAD", "name": "Roots Stable", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mead.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8", "symbol": "TRAX", "name": "BeraTrax", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/trax.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0", "symbol": "eWBERA-4", "name": "EVK Vault eWBERA-4", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ewbera4.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x6698ede14709a9dd8379744cc2d28f276e3d2eac", "symbol": "PLUTUS", "name": "Plutus token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plutus.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x0000382FbB422B4f593931FC6f2d25CC16600000", "symbol": "ZERO", "name": "Zero", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/zero.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x5bAd2b7A0A2eEE88A4ef05d5470cdEdB0ff948EA", "symbol": "hOHM", "name": "Origami hOHM", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/hohm.png", "tags": ["eco"]}
-  ,{"chainId": 80094, "address": "0x225B86198ba36321a8A840291416aEd62494043f", "symbol": "SOL", "name": "Wrapped Sol", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/sol.png", "tags": ["alt"]}
+  ,{"chainId": 80094, "address": "0x225B86198ba36321a8A840291416aEd62494043f", "symbol": "SOL", "name": "Wrapped SOL", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/sol.png", "tags": ["alt"]}
   ,{"chainId": 80094, "address": "0x927439eEf2e2520aFa78D8742cAe7Be3e3e90B11", "symbol": "mBGT", "name": "market BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x77Eac52f8D0B5c066B6d6B46211cc9aB47db464F", "symbol": "MAD", "name": "Mad Honey", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mad.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x656b95E550C07a9ffe548bd4085c72418Ceb1dba", "symbol": "BGT", "name": "Bera Governance Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x118D2cEeE9785eaf70C15Cd74CD84c9f8c3EeC9a", "symbol": "sWBERA", "name": "POL Staked WBERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x7838CEc5B11298Ff6a9513Fa385621B765C74174", "symbol": "BERO", "name": "Beradrome", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bero.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x40A8d9efE6A2C6C9D193Cc0A4476767748E68133", "symbol": "oBERO", "name": "Beradrome Call Option", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/obero.png", "tags": ["eco"]}
-  ,{"chainId": 80094, "address": "0xca72Cf92768bc1ABEF4b14cFD3E096c8B5f54696", "symbol": "TSLAs", "name": "Tesla Inc Tokenized by Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/TSLAs.png", "tags": ["rwa"]}
+  ,{"chainId": 80094, "address": "0xca72Cf92768bc1ABEF4b14cFD3E096c8B5f54696", "symbol": "TSLAs", "name": "Tesla Inc Tokenized By Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/TSLAs.png", "tags": ["rwa"]}
   ,{"chainId": 80094, "address": "0x3e5D85dD846B4Ca5A12Eb19eBd21d2798b724c36", "symbol": "SAIL", "name": "Sailing", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sail.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x334404782aB67b4F6B2A619873E579E971f9AAB7", "symbol": "wBYUSD", "name": "Wrapped BYUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/byusd.png", "tags": ["usd"]}
-  ,{"chainId": 80094, "address": "0x0473918641F2274C850ed850eB496Ca72Aba223c", "symbol": "wBNB", "name": "Wrapped BNB", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bnb.png", "tags": ["alt"]}
+  ,{"chainId": 80094, "address": "0x0473918641F2274C850ed850eB496Ca72Aba223c", "symbol": "WBNB", "name": "Wrapped BNB", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bnb.png", "tags": ["alt"]}
   ],
   "timestamp": "2025-08-21T00:00:00Z",
   "version": {
     "major": 21,
-    "minor": 72,
+    "minor": 73,
     "patch": 0
   }
 }
