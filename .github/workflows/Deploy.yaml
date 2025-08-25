@@ -33,7 +33,7 @@ jobs:
 
     - name: Sync S3 bucket
       run: |
-        aws s3 sync . s3://kodiak-static --delete --exclude ".*" --exclude "src/*"
+        aws s3 sync . s3://kodiak-static --delete --exclude ".*" --exclude "src/*" --exclude "dist/*"
       env:
         S3_BUCKET_NAME: kodiak-static
 
