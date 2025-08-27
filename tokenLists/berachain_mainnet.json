@@ -175,9 +175,9 @@
   ,{"chainId": 80094, "address": "0x0473918641F2274C850ed850eB496Ca72Aba223c", "symbol": "WBNB", "name": "Wrapped BNB", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bnb.png", "tags": ["alt"]}
   ,{"chainId": 80094, "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40", "symbol": "BULLA", "name": "BULLA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bulla.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-08-26T00:00:00Z",
+  "timestamp": "2025-08-27T00:00:00Z",
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 75,
     "patch": 0
   }
