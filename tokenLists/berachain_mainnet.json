@@ -176,11 +176,12 @@
   ,{"chainId": 80094, "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40", "symbol": "BULLA", "name": "BULLA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bulla.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xFa1EaB9Ca7c0E6Ba423561c8a1e156F69a9c8FC4", "symbol": "uvBGT", "name": "Ultra Violet BGT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/uvbgt.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xDeadf18CB9233770FE8874c78D7483b4A126B34a", "symbol": "pBERA", "name": "Paw Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x2f5a9cb393ecbacf205c72ec8ed367460959b025", "symbol": "WUSD", "name": "Worldwide USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wusd.png", "tags": ["usd"]}
   ],
   "timestamp": "2025-09-10T00:00:00Z",
   "version": {
     "major": 22,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
