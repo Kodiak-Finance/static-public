@@ -178,10 +178,10 @@
   ,{"chainId": 80094, "address": "0xDeadf18CB9233770FE8874c78D7483b4A126B34a", "symbol": "pBERA", "name": "Paw Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pbera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x2f5a9cb393ecbacf205c72ec8ed367460959b025", "symbol": "WUSD", "name": "Worldwide USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wusd.png", "tags": ["usd"]}
   ],
-  "timestamp": "2025-09-10T00:00:00Z",
+  "timestamp": "2025-09-11T00:00:00Z",
   "version": {
     "major": 22,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
