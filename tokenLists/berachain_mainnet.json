@@ -137,7 +137,7 @@
   ,{"chainId": 80094, "address": "0xcA9088895e3390E503cac9ae95abaccdba20822e", "symbol": "GRQ", "name": "GetRichQuick", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/grq.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x982940eBfC5caa2F5b5a82AAc2Dfa99F18BB7dA4", "symbol": "yBERA", "name": "Bearn BERA", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ybera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x03c86e21623f25Eca0eA544890c7603B9a33E1AC", "symbol": "pPAW", "name": "Pre-TGE Paw", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/paw.png", "tags": ["eco"]}
-  ,{"chainId": 80094, "address": "0x7203fB920421170Cc4Da001d758fdE8f391A0570", "symbol": "deUSD", "name": "deUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/deusd.png", "tags": ["legacy"]}
+  ,{"chainId": 80094, "address": "0x7203fB920421170Cc4Da001d758fdE8f391A0570", "symbol": "deUSD", "name": "deUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/deusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e", "symbol": "brBTC", "name": "brBTC", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/brbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C", "symbol": "xUSD", "name": "Staked Stream USD", "decimals": 6, "logoURI": "https://static.kodiak.finance/tokens/xusd.png", "tags": ["legacy"]}
   ,{"chainId": 80094, "address": "0xf3530788DEB3d21E8fA2c3CBBF93317FB38a0D3C", "symbol": "LAIR", "name": "Lair", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/lair.png", "tags": ["eco"]}
@@ -178,10 +178,10 @@
   ,{"chainId": 80094, "address": "0xDeadf18CB9233770FE8874c78D7483b4A126B34a", "symbol": "pBERA", "name": "Paw Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pbera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0xFf9c599D51C407A45D631c6e89cB047Efb88AeF6", "symbol": "PENDLE", "name": "Pendle", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/pendle.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-10-08T00:00:00Z",
+  "timestamp": "2025-10-28T00:00:00Z",
   "version": {
     "major": 23,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
