@@ -180,11 +180,12 @@
   ,{"chainId": 80094, "address": "0x71356761fD23e77E5D78c37C70fE78229Ca75a72", "symbol": "DAM", "name": "Reservoir", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/dam.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x8C9807d681EC113700841A9DAC09Bb30D616fC75", "symbol": "BVT", "name": "BeraBTC Vault Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/bvt.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xc66D1a2460De7b96631f4AC37ce906aCFa6A3c30", "symbol": "PlsBERA", "name": "PlsBera by Plutus", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plsbera.png", "tags": ["bera"]}
+  ,{"chainId": 80094, "address": "0x59a61B8d3064A51a95a5D6393c03e2152b1a2770", "symbol": "SAIL.r", "name": "SailOut Royalty", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/sailr.png", "tags": ["rwa"]}
   ],
-  "timestamp": "2025-11-17T00:00:00Z",
+  "timestamp": "2025-11-20T00:00:00Z",
   "version": {
     "major": 24,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   }
 }
