@@ -89,7 +89,7 @@
   ,{"chainId": 80094, "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1", "symbol": "LBTC", "name": "Lombard Staked Bitcoin", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/lbtc.png", "tags": ["btc"]}
   ,{"chainId": 80094, "address": "0x96284cCFd80E546b8239b44f653b4B5Db3f21371", "symbol": "eBTC-OT", "name": "eBTC OT", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["legacy"]}
   ,{"chainId": 80094, "address": "0x46C7BdE4422b6798A09e76B555F2fea8D7FfADdc", "symbol": "weETH-OT", "name": "weETH OT", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/goldiOT.png", "tags": ["legacy"]}
-  ,{"chainId": 80094, "address": "0xe8D7b965BA082835EA917F2B173Ff3E035B69eeB", "symbol": "xKDK", "name": "Kodiak pre-TGE rewards", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kdk.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xe8D7b965BA082835EA917F2B173Ff3E035B69eeB", "symbol": "xKDK", "name": "Kodiak pre-TGE rewards", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xkdk.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x85468a0CB26B5Fc1F2B7B7BA3aee07F073dff709", "symbol": "GODL", "name": "Grand Conquest Gold", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/golds3.png", "tags": ["legacy"]}
   ,{"chainId": 80094, "address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7", "symbol": "RAMEN", "name": "Ramen Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ramen.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142", "symbol": "YEET", "name": "YEET", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/yeet.png", "tags": ["eco"]}
@@ -184,11 +184,13 @@
   ,{"chainId": 80094, "address": "0xb2A12DB2691fc05DcA47b2bE9A087077AFaA0800", "symbol": "SMILEE", "name": "Smilee", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/smilee.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x58A0d4B6E0617AE64Aa35498b1B1942355d9AC26", "symbol": "FOX", "name": "Foxify", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/fox.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xa1B644AEC990Ad6023811cED36E6A2d6D128C7C9", "symbol": "IR", "name": "Infrared Governance Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ir.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x040EA7D4B559357425407fdFC3c774c5DfC04677", "symbol": "xKDK", "name": "Kodiak escrowed token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xkdk.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xc0D1aC00A30fA4e30e44AFc7313d6312c87E21dF", "symbol": "KDK", "name": "Kodiak token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kdk.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-12-17T00:00:00Z",
+  "timestamp": "2025-12-22T00:00:00Z",
   "version": {
     "major": 24,
-    "minor": 10,
+    "minor": 11,
     "patch": 1
   }
 }
