@@ -184,13 +184,13 @@
   ,{"chainId": 80094, "address": "0xb2A12DB2691fc05DcA47b2bE9A087077AFaA0800", "symbol": "SMILEE", "name": "Smilee", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/smilee.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x58A0d4B6E0617AE64Aa35498b1B1942355d9AC26", "symbol": "FOX", "name": "Foxify", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/fox.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xa1B644AEC990Ad6023811cED36E6A2d6D128C7C9", "symbol": "IR", "name": "Infrared Governance Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ir.png", "tags": ["eco"]}
-  ,{"chainId": 80094, "address": "0x040EA7D4B559357425407fdFC3c774c5DfC04677", "symbol": "xKDK", "name": "Kodiak escrowed token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xkdk.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0x040EA7D4B559357425407fdFC3c774c5DfC04677", "symbol": "xKDK", "name": "Kodiak escrowed token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xkdk_new.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xc0D1aC00A30fA4e30e44AFc7313d6312c87E21dF", "symbol": "KDK", "name": "Kodiak token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kdk.png", "tags": ["eco"]}
   ],
   "timestamp": "2025-12-23T00:00:00Z",
   "version": {
     "major": 24,
-    "minor": 15,
+    "minor": 16,
     "patch": 1
   }
 }
