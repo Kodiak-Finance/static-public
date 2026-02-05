@@ -10,7 +10,8 @@
     "Lending",
     "Liquid Staking",
     "Structured Products",
-    "Stablecoin"
+    "Stablecoin",
+    "Aggregator"
   ],
   "ecosystem": [
     {
@@ -99,7 +100,7 @@
     },
     {
       "name": "Ooga Booga",
-      "category": "Trading Tools",
+      "category": "Aggregator",
       "description": "Berachain's native dex aggregator.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/ooga.png",
       "link": "https://oogabooga.io"
@@ -183,7 +184,7 @@
     },
     {
       "name": "Enso",
-      "category": "Trading Tools",
+      "category": "Aggregator",
       "description": "Enso is blockchain shortcuts, providing the fastest way to build and launch onchain applications through its aggregation API.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/enso.png",
       "link": "https://www.enso.build"
@@ -225,7 +226,7 @@
     },
     {
       "name": "Magpie Protocol",
-      "category": "Infrastructure",
+      "category": "Aggregator",
       "description": "Magpie Protocol is a swap execution engine for traders, agents and dapps. It aggregates liquidity on DEXs, DeFi protocols, and bridges across 18+ chains, optimizing transaction routes to provide better pricing on swaps with an optimal UX.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/magpieprotocol.png",
       "link": "https://www.magpiefi.xyz"
@@ -250,12 +251,33 @@
       "description": "MadHoney is the ultimate playground for degens powered by the legendary $MAD token. Whether you're here to trade perps, stack rewards, or just vibe with the Mad Bears, you've made it to the right place.",
       "logoURI": "https://static.kodiak.finance/ecosystem/logo/madhoney.png",
       "link": "https://madhoney.fi/"
+    },
+    {
+      "name": "Kyberswap",
+      "category": "Aggregator",
+      "description": "KyberSwap Aggregator connects users and apps to fractured liquidity across DEXs and chains by splitting and optimizing routes across AMM and order book venues.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/kyberswap.png",
+      "link": "https://kyberswap.com"
+    },
+    {
+      "name": "Open Ocean",
+      "category": "Aggregator",
+      "description": "OpenOcean Swap API is a multi-chain DEX aggregation and smart order routing API that supports both EVM and non-EVM networks.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/openocean.png",
+      "link": "https://openocean.finance"
+    },
+    {
+      "name": "0x",
+      "category": "Aggregator",
+      "description": "0x Swap API is a professional-grade DEX aggregation and smart order routing REST API for embedding crypto swaps in apps.",
+      "logoURI": "https://static.kodiak.finance/ecosystem/logo/0x.png",
+      "link": "https://0x.org"
     }
   ],
-  "timestamp": "2025-06-28T00:00:00Z",
+  "timestamp": "2026-02-05T00:00:00Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
