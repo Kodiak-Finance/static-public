@@ -185,10 +185,11 @@
   ,{"chainId": 80094, "address": "0xa1B644AEC990Ad6023811cED36E6A2d6D128C7C9", "symbol": "IR", "name": "Infrared Governance Token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/ir.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x040EA7D4B559357425407fdFC3c774c5DfC04677", "symbol": "xKDK", "name": "Kodiak escrowed token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/xkdk_final.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xc0D1aC00A30fA4e30e44AFc7313d6312c87E21dF", "symbol": "KDK", "name": "Kodiak token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kdk.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xC6173A3405Fdb1f5c42004D2d71Cba9Bf1Cfa522", "symbol": "plsKDK", "name": "Plutus KDK", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plskdk.png", "tags": ["eco"]}
   ],
-  "timestamp": "2025-02-21T00:00:00Z",
+  "timestamp": "2026-04-06T00:00:00Z",
   "version": {
-    "major": 25,
+    "major": 26,
     "minor": 0,
     "patch": 0
   }
