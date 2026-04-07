@@ -188,9 +188,9 @@
   ,{"chainId": 80094, "address": "0xC6173A3405Fdb1f5c42004D2d71Cba9Bf1Cfa522", "symbol": "plsKDK", "name": "Plutus KDK", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plskdk.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x5e4d5f1E7b69Cdcd3faDb0cf182ea7821070Cbb5", "symbol": "APIARY", "name": "Apiary", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/apiary.png", "tags": ["eco"]}
   ],
-  "timestamp": "2026-04-06T00:00:00Z",
+  "timestamp": "2026-04-07T00:00:00Z",
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 0,
     "patch": 0
   }
