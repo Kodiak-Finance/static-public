@@ -187,11 +187,13 @@
   ,{"chainId": 80094, "address": "0xc0D1aC00A30fA4e30e44AFc7313d6312c87E21dF", "symbol": "KDK", "name": "Kodiak token", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/kdk.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0xC6173A3405Fdb1f5c42004D2d71Cba9Bf1Cfa522", "symbol": "plsKDK", "name": "Plutus KDK", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/plskdk.png", "tags": ["eco"]}
   ,{"chainId": 80094, "address": "0x5e4d5f1E7b69Cdcd3faDb0cf182ea7821070Cbb5", "symbol": "APIARY", "name": "Apiary", "decimals": 9, "logoURI": "https://static.kodiak.finance/tokens/apiary.png", "tags": ["eco"]}
+  ,{"chainId": 80094, "address": "0xbca138DEd469F5063589bFdfdD4BC68EB1c3f252", "symbol": "avUSD", "name": "avUUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/avusd.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0xa744Fe3688291aC3A4a7eC917678783aD9946a1E", "symbol": "savUSD", "name": "Staked avUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/savusd.png", "tags": ["usd"]}
   ],
-  "timestamp": "2026-04-07T00:00:00Z",
+  "timestamp": "2026-04-27T00:00:00Z",
   "version": {
     "major": 27,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
