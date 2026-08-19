@@ -54,7 +54,7 @@
    {"chainId": 80094, "address": "0x6969696969696969696969696969696969696969", "symbol": "WBERA", "name": "Wrapped Bera", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/wbera.png", "tags": ["bera"]}
   ,{"chainId": 80094, "address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d", "symbol": "beraETH", "name": "Berachain Staked ETH", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/beraeth.png", "tags": ["eth"]}
   ,{"chainId": 80094, "address": "0xbAC93A69c62a1518136FF840B788Ba715cbDfE2B", "symbol": "FBTC", "name": "Fire Bitcoin", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/fbtc.png", "tags": ["legacy"]}
-  ,{"chainId": 80094, "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce", "symbol": "HONEY", "name": "Honey", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/honey.png", "tags": ["usd"]}
+  ,{"chainId": 80094, "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce", "symbol": "BUSD", "name": "Bera USD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/busd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x5B82028cfc477C4E7ddA7FF33d59A23FA7Be002a", "symbol": "MIM", "name": "Magic Internet Money", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/mim.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3", "symbol": "NECT", "name": "Nectar", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/nectar.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E", "symbol": "pumpBTC.bera", "name": "pumpBTC.bera", "decimals": 8, "logoURI": "https://static.kodiak.finance/tokens/pumpbtc.png", "tags": ["legacy"]}
@@ -190,10 +190,10 @@
   ,{"chainId": 80094, "address": "0xbca138DEd469F5063589bFdfdD4BC68EB1c3f252", "symbol": "avUSD", "name": "avUUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/avusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xa744Fe3688291aC3A4a7eC917678783aD9946a1E", "symbol": "savUSD", "name": "Staked avUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/savusd.png", "tags": ["usd"]}
   ],
-  "timestamp": "2026-04-27T00:00:00Z",
+  "timestamp": "2026-08-19T00:00:00Z",
   "version": {
     "major": 27,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
