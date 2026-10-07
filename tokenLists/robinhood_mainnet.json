@@ -1,0 +1,115 @@
+{
+  "name": "Kodiak Robinhood Default List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "kodiak"
+  ],
+  "tags": {
+    "major": {
+      "name": "Major",
+      "description": "Major tokens"
+    },
+    "usd": {
+      "name": "USD",
+      "description": "Tokens correlated to USD"
+    },
+    "btc": {
+      "name": "BTC",
+      "description": "Tokens correlated to Bitcoin"
+    },
+    "eth": {
+      "name": "ETH",
+      "description": "Tokens correlated to Ether"
+    },
+    "rwa": {
+      "name": "RWA",
+      "description": "Tokens correlated to non crypto assets"
+    },
+    "meme": {
+      "name": "Meme",
+      "description": "Non Panda Memecoins"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 4663,
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/weth.png",
+      "tags": [
+        "major",
+        "eth"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      "symbol": "USDG",
+      "name": "Global Dollar",
+      "decimals": 6,
+      "logoURI": "https://static.kodiak.finance/tokens/usdg.png",
+      "tags": [
+        "major",
+        "usd"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4",
+      "symbol": "cbBTC",
+      "name": "Coinbase Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://static.kodiak.finance/tokens/btc.png",
+      "tags": [
+        "btc"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+      "decimals": 18,
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "symbol": "NVDA",
+      "name": "NVIDIA • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nvda.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x378A50eaC56f45Fb74e4cE7F1962dbCA33515c14",
+      "symbol": "MCD",
+      "name": "Meridian Capital",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 4663,
+      "address": "0xab093dEF657F15dF31b33922A95e047aDd645B29",
+      "symbol": "SHROOM",
+      "name": "MUSHROOM",
+      "decimals": 18,
+      "tags": [
+        "meme"
+      ]
+    }
+  ],
+  "timestamp": "2026-10-07T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
