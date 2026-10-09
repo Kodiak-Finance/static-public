@@ -72,6 +72,7 @@
       "symbol": "SPY",
       "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
       "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/spy.png",
       "tags": [
         "rwa"
       ]
@@ -82,7 +83,7 @@
       "symbol": "NVDA",
       "name": "NVIDIA • Robinhood Token",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/nvda.png",
+      "logoURI": "https://static.kodiak.finance/tokens/nvda-robinhood.png",
       "tags": [
         "rwa"
       ]
@@ -93,6 +94,7 @@
       "symbol": "MCD",
       "name": "Meridian Capital",
       "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mcd.png",
       "tags": []
     },
     {
@@ -101,15 +103,16 @@
       "symbol": "SHROOM",
       "name": "MUSHROOM",
       "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/shroom.png",
       "tags": [
         "meme"
       ]
     }
   ],
-  "timestamp": "2026-10-07T00:00:00Z",
+  "timestamp": "2026-10-09T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
