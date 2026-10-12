@@ -21,6 +21,14 @@
       "name": "ETH",
       "description": "Tokens correlated to Ether"
     },
+    "alt": {
+      "name": "Alt",
+      "description": "Tokens correlated to Altcoins"
+    },
+    "eco": {
+      "name": "Eco",
+      "description": "Robinhood Ecosystem Tokens"
+    },
     "rwa": {
       "name": "RWA",
       "description": "Tokens correlated to non crypto assets"
@@ -68,11 +76,1430 @@
     },
     {
       "chainId": 4663,
-      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
-      "symbol": "SPY",
-      "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "symbol": "USDe",
+      "name": "USDe",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/spy.png",
+      "logoURI": "https://static.kodiak.finance/tokens/usde.png",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "symbol": "sUSDe",
+      "name": "Staked USDe",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/susde.png",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC6a4854eeB493224d5f9485E12Dd3A81f22EEE14",
+      "symbol": "syrupUSDC",
+      "name": "Syrup USDC",
+      "decimals": 6,
+      "logoURI": "https://static.kodiak.finance/tokens/syrupusdc.png",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
+      "symbol": "syrupUSDG",
+      "name": "syrupUSDG",
+      "decimals": 6,
+      "logoURI": "https://static.kodiak.finance/tokens/syrupusdg.png",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2dC99af320BC317c567f24eE95811dcbd5983DfD",
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wsteth.png",
+      "tags": [
+        "eth"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x492641F648a4986844848E0beFE66D14817bCE34",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/link.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+      "symbol": "VIRTUAL",
+      "name": "Virtuals Protocol",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/virtual.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf3081494B87e8D5fb7960f066E931D1D0e6E3d67",
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/tao.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5c4b24A9c8B840399611f707bAaF1B1343054dE9",
+      "symbol": "cbADA",
+      "name": "Coinbase Wrapped ADA",
+      "decimals": 6,
+      "logoURI": "https://static.kodiak.finance/tokens/cbada.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xD4ad79ed3372460F1e63Feb8fC41C3b757198C6e",
+      "symbol": "cbLTC",
+      "name": "Coinbase Wrapped LTC",
+      "decimals": 8,
+      "logoURI": "https://static.kodiak.finance/tokens/cbltc.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0bb40D7fbaE7f0C69Bc5910C601987dce697d85F",
+      "symbol": "SUSHI",
+      "name": "SushiToken",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sushi.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1755C2910c126eE1b0CF1E08a307Dc9E787285a0",
+      "symbol": "1INCH",
+      "name": "1INCH Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/1inch.png",
+      "tags": [
+        "alt"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8D1c258C76c87559078bb3b2B77a1f9C41f58eEB",
+      "symbol": "SPX",
+      "name": "SPX6900",
+      "decimals": 8,
+      "logoURI": "https://static.kodiak.finance/tokens/spx.png",
+      "tags": [
+        "meme"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x378A50eaC56f45Fb74e4cE7F1962dbCA33515c14",
+      "symbol": "MCD",
+      "name": "Meridian Capital",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mcd.png",
+      "tags": [
+        "eco"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xab093dEF657F15dF31b33922A95e047aDd645B29",
+      "symbol": "SHROOM",
+      "name": "MUSHROOM",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/shroom.png",
+      "tags": [
+        "meme"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x521Cf887E6531c6F667b5BC4D896E5d9bfE8EB2E",
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/aaoi-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "symbol": "AAPL",
+      "name": "Apple • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/aapl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3139D77Ace0cbAA5bDfD38bD1F1911a794AF0B0e",
+      "symbol": "ABCL",
+      "name": "Abcellera Biologics • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/abcl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x232B8ed6377BE97813853B0Ac104c4Cda8378d1B",
+      "symbol": "ADBE",
+      "name": "Adobe • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/adbe-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5F604fBA1162193A4388A5DFa56F556f3E133cC2",
+      "symbol": "AEHR",
+      "name": "Aehr • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/aehr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfAf9cb261B5FCC1f404Bb10CD39C5c6C1974E612",
+      "symbol": "AEIS",
+      "name": "Advanced Energy • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/aeis-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x748c32c3ca24eDf31ea597Db1F3d330a7a6DA3Dc",
+      "symbol": "ALAB",
+      "name": "Astera Labs, Inc. • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/alab-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x36046893810a7E7fCE501229d57dc3FC8c8716d0",
+      "symbol": "AMAT",
+      "name": "Applied Materials • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/amat-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x99D9D8663545151603863C5AcbD6FC3218899009",
+      "symbol": "AMBA",
+      "name": "Ambarella • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/amba-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
+      "symbol": "AMC",
+      "name": "AMC Entertainment • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/amc-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+      "symbol": "AMD",
+      "name": "AMD • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/amd-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xDd356AA38F40A7b7076755aC854B6FBb1F0D305B",
+      "symbol": "AMKR",
+      "name": "Amkor Technology • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/amkr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+      "symbol": "AMZN",
+      "name": "Amazon • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/amzn-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x28bABD556b60E53663B8615036479a29c2CDd1Bf",
+      "symbol": "ANET",
+      "name": "Arista • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/anet-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb8DBf92F9741c9ac1c32115E78581f23509916FD",
+      "symbol": "APLD",
+      "name": "Applied Digital • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/apld-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xA249BAF1063Af884807C1E1400AEf7784836917E",
+      "symbol": "APP",
+      "name": "AppLovin • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/app-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x47F93d52cBeC7C6D2CfC080e154002370a60dAEA",
+      "symbol": "ASML",
+      "name": "ASML Holding NV • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/asml-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1AF6446f07eb1d97c546AFC8c9544cBDF3AD5137",
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/asts-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x373C06c4f7BDe527D7Dae4BA169E42b55E393CeD",
+      "symbol": "AUR",
+      "name": "Aurora Innovation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/aur-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF6290b5e7C26502e2dA514C31509849718EA76A5",
+      "symbol": "AVAV",
+      "name": "AeroVironment • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/avav-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
+      "symbol": "AVGO",
+      "name": "Broadcom • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/avgo-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC27dBD474aF5181c5A8777903690D8D262D12648",
+      "symbol": "AXON",
+      "name": "Axon • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/axon-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x141eEa040c2250eEc0314e336975e81f85f6585e",
+      "symbol": "AXTI",
+      "name": "AXT • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/axti-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4D21483a44Bf67a86b77E3dA301411880797D452",
+      "symbol": "BA",
+      "name": "Boeing • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ba-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
+      "symbol": "BABA",
+      "name": "Alibaba • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/baba-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x48E39E56aCdbA37b09020C0b734A613C9a2f100A",
+      "symbol": "BB",
+      "name": "Blackberry • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bb-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x822CC93fFD030293E9842c30BBD678F530701867",
+      "symbol": "BE",
+      "name": "Bloom Energy • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/be-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2F62fC9fAbb470C690f141c28340eD832bB27020",
+      "symbol": "BND",
+      "name": "Vanguard Total Bond Market ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bnd-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xceF9027c7d6985b85f0BA431125073529A947A68",
+      "symbol": "BULL",
+      "name": "Webull • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bull-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5c90450Bbb4273D7b2f17CF6917AEB237A569679",
+      "symbol": "CBRS",
+      "name": "Cerebras Systems • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/cbrs-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9651342CeA770aE9a2969Ba2A52611523146aef9",
+      "symbol": "CCL",
+      "name": "Carnival Corporation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ccl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xaE517A2903E68bd929Dfd15be875F8369D53e94a",
+      "symbol": "CEG",
+      "name": "Constellation Energy • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ceg-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8cF07C5A878945185d327aAa6e33FAa95F95e7bF",
+      "symbol": "CELH",
+      "name": "Celsius • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/celh-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x44f6D488021f8233B9416294d1FE9b1fEe28382d",
+      "symbol": "CIEN",
+      "name": "Ciena • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/cien-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x62200915e7DEab1eC7f79fb246daDbB80eACdDd0",
+      "symbol": "CLOV",
+      "name": "Clover Health Investments • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/clov-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBf449977089c718C004a66C554B26B94ef3Ad4De",
+      "symbol": "CLS",
+      "name": "Celestica • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/cls-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xcBB95BBF36099d34dA091dc6Fa6F49EfA257Cee3",
+      "symbol": "CLSK",
+      "name": "CleanSpark • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/clsk-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x92F9F459F1a9a5AD266b182BE7Bffd1C6c666894",
+      "symbol": "COHR",
+      "name": "Coherent • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/cohr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
+      "symbol": "COIN",
+      "name": "Coinbase • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/coin-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
+      "symbol": "COST",
+      "name": "Costco • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/cost-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
+      "symbol": "CRCL",
+      "name": "Circle Internet Group • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/crcl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4D67253bc223e6b0e104F1084c1fb2b669dDC41b",
+      "symbol": "CRDO",
+      "name": "Credo Technology Group • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/crdo-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd95B44124e475743a7589e68F3D74008A5536D44",
+      "symbol": "CRM",
+      "name": "Salesforce • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/crm-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931",
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/crwd-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5f10A1C971B69e47e059e1dC91901B59b3fB49C3",
+      "symbol": "CRWV",
+      "name": "CoreWeave • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/crwv-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF543967EEBB6f1917992eF0E68De63ab07a5a0dA",
+      "symbol": "CSCO",
+      "name": "Cisco Systems • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/csco-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x63D5a3b6939a33f1e75d8Bcd85759858239600DB",
+      "symbol": "CTSH",
+      "name": "Cognizant • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ctsh-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa4f319104089FE321dc8093C6E707d4fE190A988",
+      "symbol": "CVNA",
+      "name": "Carvana • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/cvna-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x27c99fBde9D0d2AA4f4Bfb4943f237843DdF6958",
+      "symbol": "DDOG",
+      "name": "Datadog • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ddog-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x941AE714EC6D8130c7B75d67160Ca08f1e7d11Dd",
+      "symbol": "DELL",
+      "name": "Dell • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/dell-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1D11f0496982706C5e14A514D4E79F2e6BdE4516",
+      "symbol": "DJT",
+      "name": "Trump Media & Technology Group • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/djt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc02f12B9fe9E707079EC0d546f3050d3F6C1F8bD",
+      "symbol": "DOCN",
+      "name": "DigitalOcean • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/docn-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x39EC44Bee4F6A116c6F9B8De566848a985C53C60",
+      "symbol": "ELF",
+      "name": "e.l.f. Beauty • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/elf-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1c690498150252222C275A5CEd69d3A6b1f52D5E",
+      "symbol": "EWT",
+      "name": "iShares MSCI Taiwan Capped ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ewt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7f0aBeF0C07280F82c6a08ead09dEd6BAE2C13Fc",
+      "symbol": "EWY",
+      "name": "iShares MSCI South Korea fund • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ewy-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x25C288E6D899b9BC30160965aD9644c67e73bE0C",
+      "symbol": "F",
+      "name": "Ford Motor • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/f-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa48F22A46C0F1C46CA7D111CB6c137c271987180",
+      "symbol": "FICO",
+      "name": "Fair Isaac • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/fico-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x41F4267525a8AFf329540eF24fD83d9044758B33",
+      "symbol": "FIG",
+      "name": "Figma • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/fig-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9ECe29A4A2397C0a35fb5fA8EE2b9509130a98cc",
+      "symbol": "FISV",
+      "name": "Fiserv • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/fisv-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x93Dbb1d2Dc5D63F4abACFF30485273f538Df68Ac",
+      "symbol": "FIX",
+      "name": "Comfort Systems • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/fix-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x282e87451E10fA6679BC7D76C69BE44cD3fC777C",
+      "symbol": "FLNC",
+      "name": "Fluence Energy • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/flnc-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x03BC731Ffb162cdd7B98D3C6542bFC291126075d",
+      "symbol": "FLY",
+      "name": "Firefly Aerospace Inc. • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/fly-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3FB8976980d486084b2eb4a404BD12e72823958f",
+      "symbol": "FTNT",
+      "name": "Fortinet • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ftnt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xeB30663bDFf0622Ef4e4E5cBb4E975F19f33f51D",
+      "symbol": "FUTU",
+      "name": "Futu Holdings • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/futu-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x63b814DDBd6BF339f25Fed8c36158a008D5B373e",
+      "symbol": "GE",
+      "name": "General Electric • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ge-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x94B8AAE43A1cCc08Aa64B7D1F29b4D920aF4a0C9",
+      "symbol": "GEV",
+      "name": "GE Vernova • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/gev-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
+      "symbol": "GLD",
+      "name": "SPDR Gold Trust • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/gld-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7c04E6A3368F2A1DE3874f0e80d2e0A1a9915da6",
+      "symbol": "GLW",
+      "name": "Corning • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/glw-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2D427692E928fa156ec22acfaBaFA0447C5805B7",
+      "symbol": "GLXY",
+      "name": "Galaxy Digital Inc. • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/glxy-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+      "symbol": "GME",
+      "name": "GameStop • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/gme-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "symbol": "GOOGL",
+      "name": "Alphabet Class A • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/googl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xEB61c0Ed490A367d4E3631cCf8a74B3bfc7E775D",
+      "symbol": "HII",
+      "name": "Huntington Ingalls • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/hii-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/hims-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x59dd09d4900C2E4B5F75b7c0d4E6796fcc234Cb1",
+      "symbol": "HPE",
+      "name": "HP Enterprise • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/hpe-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAEa445c5F3DB1a462998ccC422A875A361ee5d99",
+      "symbol": "HWM",
+      "name": "Howmet Aerospace • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/hwm-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
+      "symbol": "IBM",
+      "name": "IBM • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ibm-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7c148F74ac7445D1F28366b7FcDC6792a9Fcd0Cf",
+      "symbol": "IBRX",
+      "name": "ImmunityBio, • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ibrx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xACEF2e09adb47aD6aBeBAD9fF06689E60615C2B6",
+      "symbol": "INDA",
+      "name": "iShares MSCI India ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/inda-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB853bC83a753342a4f8320ea680b4B1E84118D21",
+      "symbol": "INFQ",
+      "name": "Infleqtion • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/infq-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf1953DAB6FaD537488d5A022361FfAa8B4c95eC6",
+      "symbol": "INOD",
+      "name": "Innodata • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/inod-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+      "symbol": "INTC",
+      "name": "Intel • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/intc-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x56d23beE5f41A7120170b0c603Dae30128e460e9",
+      "symbol": "INTU",
+      "name": "Intuit • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/intu-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x558378E000D634A36593E338eBacdd6207640EfE",
+      "symbol": "IONQ",
+      "name": "IonQ • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ionq-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF0AB0c93bE6F41369d302e55db1A96b3c430212D",
+      "symbol": "IREN",
+      "name": "IREN Limited • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/iren-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xEAf2512dFC1bEAc608F8794B3793CD4E02894Aa6",
+      "symbol": "JBL",
+      "name": "Jabil Inc. • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/jbl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x03DfbBE0AC4E7bCDaFd08eD41A400326B77D8c80",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/jnj-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb334C5cE741B80B5B671F47F5C269Cb193fe8E24",
+      "symbol": "JOBY",
+      "name": "Joby Aviation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/joby-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x96b933C74eCB4A0926b9210cef7b743EF46be2E9",
+      "symbol": "KLAC",
+      "name": "KLA • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/klac-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x12e3c047bf9AeCAF9dDC98c05C31BFD1dd043993",
+      "symbol": "KSS",
+      "name": "Kohls Corporation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/kss-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7FD06a4d81cCfA3F351394E144d5191874C31313",
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ktos-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x48d60243c66437c6ac3c2495Be94747aEd5Dfe25",
+      "symbol": "LHX",
+      "name": "L3Harris • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lhx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8eF20885F94e3D9bc7eB3080279188Bd5ED7c08C",
+      "symbol": "LITE",
+      "name": "Lumentum • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lite-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
+      "symbol": "LLY",
+      "name": "Eli Lilly • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lly-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x329fcACEb9AD6F9580DD5F643fed0646900D043c",
+      "symbol": "LMT",
+      "name": "Lockheed • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lmt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x57b0030166DB0C31690d1A5aA167e2e26e2C29a4",
+      "symbol": "LRCX",
+      "name": "Lam Research Corp • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lrcx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4e62068525Ab11FE768e29dfD00ef909B9803016",
+      "symbol": "LULU",
+      "name": "Lululemon • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lulu-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa5D4968421bA94814Be3B136b15cf422101aC1a3",
+      "symbol": "LUNR",
+      "name": "Intuitive Machines • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/lunr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xDdf2266b79abf0B48898959B0ed6E6adf512be74",
+      "symbol": "MDB",
+      "name": "MongoDB • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mdb-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      "symbol": "META",
+      "name": "Meta Platforms • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/meta-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc6Cbad1016b38B797610c25E1dc7D95988B1f362",
+      "symbol": "MOD",
+      "name": "Modine • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mod-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x52D50D0280AD1054b43f052bD70a49a212A1b128",
+      "symbol": "MPWR",
+      "name": "Monolithic Power Systems • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mpwr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
+      "symbol": "MRNA",
+      "name": "Moderna • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mrna-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
+      "symbol": "MRVL",
+      "name": "Marvell Technology • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mrvl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+      "symbol": "MSFT",
+      "name": "Microsoft • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/msft-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xec262a75e413fAfD0dF80480274532C79D42da09",
+      "symbol": "MSTR",
+      "name": "Strategy Inc. • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mstr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC93f4d80e268AB922e871bd169156C3CC41894e6",
+      "symbol": "MTSI",
+      "name": "MACOM • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mtsi-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
+      "symbol": "MU",
+      "name": "Micron Technology • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mu-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x48961813349333209994750ffA89b3c5C22eC969",
+      "symbol": "MXL",
+      "name": "MaxLinear • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/mxl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf7181b63Fdb858558A74ba96BC42732684cd7965",
+      "symbol": "NAVN",
+      "name": "Navan • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/navn-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9D9c6684F596F66a64C030B93A886D51Fd4D7931",
+      "symbol": "NBIS",
+      "name": "Nebius Group • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nbis-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x116F00968269B7bfbaD4109cE591d6E74c0601d4",
+      "symbol": "NET",
+      "name": "Cloudflare, Inc. Class A common stock • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/net-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
+      "symbol": "NFLX",
+      "name": "Netflix • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nflx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBEF75684C43c4ea7BD18Dd532a2244674Ee8b926",
+      "symbol": "NNE",
+      "name": "Nano Nuclear Energy • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nne-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0C3260aF4B8f13a69c4c2dFb84fD667890CDFa14",
+      "symbol": "NOW",
+      "name": "ServiceNow • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/now-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x408c14038a04f7bD235329E26d2bf569ee20e250",
+      "symbol": "NU",
+      "name": "Nu • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/nu-robinhood.png",
       "tags": [
         "rwa"
       ]
@@ -90,29 +1517,867 @@
     },
     {
       "chainId": 4663,
-      "address": "0x378A50eaC56f45Fb74e4cE7F1962dbCA33515c14",
-      "symbol": "MCD",
-      "name": "Meridian Capital",
+      "address": "0xbE6702d7b70315376dC48a3293f24f0982F86386",
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor • Robinhood Token",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/mcd.png",
-      "tags": []
+      "logoURI": "https://static.kodiak.finance/tokens/nvts-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
     },
     {
       "chainId": 4663,
-      "address": "0xab093dEF657F15dF31b33922A95e047aDd645B29",
-      "symbol": "SHROOM",
-      "name": "MUSHROOM",
+      "address": "0x8B2f88497f15A18E9D4FFa1a8fFB8538399aE774",
+      "symbol": "OKLO",
+      "name": "Oklo • Robinhood Token",
       "decimals": 18,
-      "logoURI": "https://static.kodiak.finance/tokens/shroom.png",
+      "logoURI": "https://static.kodiak.finance/tokens/oklo-robinhood.png",
       "tags": [
-        "meme"
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xbBD09F72b025360FeE5C928053Dca6248d35be54",
+      "symbol": "ON",
+      "name": "ON Semiconductor • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/on-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x8ff63eAeEe3fE54Ba450c4F5538064Ec5A893Aef",
+      "symbol": "ONTO",
+      "name": "Onto Innovation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/onto-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb0992820E760d836549ba69BC7598b4af75dEE03",
+      "symbol": "ORCL",
+      "name": "Oracle • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/orcl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x40E7a279850e443f582059ae5dC1c3b6563E6395",
+      "symbol": "OUST",
+      "name": "Ouster • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/oust-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1Cdad396DB64BDa184d5182A97Dd9B3C62100b7D",
+      "symbol": "P",
+      "name": "Everpure • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/p-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB039597eD45CBa7B6E2fb9E8BE51802969CEe5Be",
+      "symbol": "PANW",
+      "name": "Palo Alto Networks • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/panw-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xfb2664f07B6Aadd29ea7a59D8859b1AeB8645cDa",
+      "symbol": "PATH",
+      "name": "UiPath • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/path-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9b23573b156B52565012F5cE02CDF60AFBaa70Be",
+      "symbol": "PENG",
+      "name": "Penguin Solutions • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/peng-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
+      "symbol": "PFE",
+      "name": "Pfizer • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/pfe-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAA4d64474c172010aB57719cb9951E6142a100d3",
+      "symbol": "PL",
+      "name": "Planet Labs • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/pl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+      "symbol": "PLTR",
+      "name": "Palantir Technologies • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/pltr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xcf6B2D875361be807EAfa57458c80f28521F9333",
+      "symbol": "POET",
+      "name": "POET Technologies • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/poet-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x237c16D66590F67B886d978ACD362EAeaD8B18c7",
+      "symbol": "POWL",
+      "name": "Powell Industries • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/powl-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C",
+      "symbol": "PR",
+      "name": "Permian Resources • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/pr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9Ab02Ead789b6903c3c44d0ED32F9c707CDF12FD",
+      "symbol": "PWR",
+      "name": "Quanta • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/pwr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xC583c60aeF9Dc401Da72cEC1B404743a93cea1Cc",
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum Inc. Common Stock • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/qbts-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0f17206447090e464C277571124dD2688E48AEA9",
+      "symbol": "QCOM",
+      "name": "Qualcomm • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/qcom-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
+      "symbol": "QQQ",
+      "name": "Invesco QQQ • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/qqq-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x59818904ab4cE163b3cE4FfB64f2D6Ca02c434B4",
+      "symbol": "QUBT",
+      "name": "Quantum Computing • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/qubt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF0C4BF4C582cb3836e98394b1d4e7B7281101bE8",
+      "symbol": "RBLX",
+      "name": "Roblox • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rblx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xFDE6b5d9BB419B10C23268c74e369AbFF39C0460",
+      "symbol": "RCAT",
+      "name": "Red Cat • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rcat-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
+      "symbol": "RDDT",
+      "name": "Reddit • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rddt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x92Ef19E82bD8fF36661DE838D5eaE7e5CEF0EfFE",
+      "symbol": "RDW",
+      "name": "Redwire • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rdw-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x284358abc07F9359f19f4b5b4aC91901Be2597Ba",
+      "symbol": "RGTI",
+      "name": "Rigetti Computing • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rgti-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB1BF26c1D20ff267A4f93550d1E0d06ac40a114B",
+      "symbol": "RIVN",
+      "name": "Rivian Automotive • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rivn-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3b14C39E89D60D627b42a1A4CA45b5bb45Fc12e2",
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/rklb-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x756Bc80af765C82da966a788858d65aDF14f3793",
+      "symbol": "RUN",
+      "name": "Sunrun • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/run-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x95052ddcd5DC25641657424A8Cf04834997E1730",
+      "symbol": "SATS",
+      "name": "EchoStar • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sats-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd63ABB2C13d7a8421a8017a712802053568e3C1D",
+      "symbol": "SCHD",
+      "name": "Schwab US Dividend Equity ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/schd-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+      "symbol": "SGOV",
+      "name": "iShares 0-3 Month Treasury Bond • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sgov-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF53F66751B1Eff985311b693531E3290F600c410",
+      "symbol": "SHOP",
+      "name": "Shopify • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/shop-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBE274710Bf3d9567e1B290eF6a5F9f90ca016FD8",
+      "symbol": "SHY",
+      "name": "iShares 1-3 Year Treasury Bond ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/shy-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x77E655E37F4d913fB9540e0d541D824171a60e81",
+      "symbol": "SIMO",
+      "name": "Silicon Motion • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/simo-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x84CAb63bc87912E71ad199ff14A0bA45de68FeF8",
+      "symbol": "SKHY",
+      "name": "SK hynix Inc. American Depositary Shares • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/skhy-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x285b231728c7E4333799183DF1094d775246a535",
+      "symbol": "SLS",
+      "name": "SELLAS Life Sciences • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sls-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f",
+      "symbol": "SLV",
+      "name": "iShares Silver Trust • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/slv-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xc01aA1fECeC0605b13bc84874ff7256C0f5F562a",
+      "symbol": "SMCI",
+      "name": "Super Micro Computer • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/smci-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x072f979c2CAc8e1391B0162a87Fee094bF8744a0",
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/smh-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1Eebee7F74517e0279dFb09d25B0407bEEc3FDd6",
+      "symbol": "SMR",
+      "name": "NuScale Power • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/smr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF6589F11Bc40b669e584073F428B05562F568733",
+      "symbol": "SNAP",
+      "name": "Snap • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/snap-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sndk-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xBa0CAB75495255d0cB58E22B648bFED4ECD1F47E",
+      "symbol": "SNOW",
+      "name": "Snowflake • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/snow-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x98E75885157C80992A8D41b696D8c9C6Fb30A926",
+      "symbol": "SOFI",
+      "name": "SoFi Technologies • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/sofi-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x6E3Dfd9f7e1649BaA14D25cac18C94d62dB10A54",
+      "symbol": "SOUN",
+      "name": "SoundHound AI • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/soun-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x75742c18BC1f1C5c5f448f4C9D9C6F66dafAAa38",
+      "symbol": "SOXX",
+      "name": "iShares Semiconductor ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/soxx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/spcx-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xAd622320e520de39e72d41EF07438C3Fd3354875",
+      "symbol": "SPMO",
+      "name": "Invesco S&P 500 Momentum ETF • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/spmo-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/spy-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xb1969f6604CA1AE7a2cD3F1827876e914594CA2D",
+      "symbol": "TE",
+      "name": "T1 Energy • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/te-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5B97476b922F3305131B8f0B9D333172E87f4aaE",
+      "symbol": "TEAM",
+      "name": "Atlassian Corporation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/team-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xB1CC0EC7Db69Cf43539119814df40071b9d61793",
+      "symbol": "TEM",
+      "name": "Tempus AI • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/tem-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x2778C5024D5cA2CdB0f8eAD671ffc69963AdCD9C",
+      "symbol": "TER",
+      "name": "Teradyne • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ter-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x89776d4Cd68193597A2fC132cfaC1fDe36CCeA8a",
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/tsem-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+      "symbol": "TSLA",
+      "name": "Tesla • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/tsla-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x58FfE4a942d3885bAa22D7520691F611EF09e7AA",
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/tsm-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0b5fb4031cae9163db10B169Ee72685F0EdC8545",
+      "symbol": "TTD",
+      "name": "Trade Desk • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ttd-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x5e81213613b6B86EaB4c6c50d718d34359459786",
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ttwo-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0E6e67Ba88e7b5d9B67636A215c76779B948dE79",
+      "symbol": "UMC",
+      "name": "United Microelectronics • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/umc-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xcF364ea52787e289De6F32077834056E3E70D6A8",
+      "symbol": "UNH",
+      "name": "UnitedHealth • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/unh-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf23250dac154D05Bb671CB0d0eBEf3c635c79CE2",
+      "symbol": "UPS",
+      "name": "UPS • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ups-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xd917B029C761D264c6A312BBbcDA868658eF86a6",
+      "symbol": "USAR",
+      "name": "USA Rare Earth • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/usar-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344",
+      "symbol": "USO",
+      "name": "United States Oil Fund • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/uso-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x6006ed4B2F94110851ff7509D97D034f0EeD9226",
+      "symbol": "VICR",
+      "name": "Vicor • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/vicr-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xFA78C12E6488814A0262E4e802749a4a737d5fB7",
+      "symbol": "VRT",
+      "name": "Vertiv • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/vrt-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x26dCbfb34FC83CAbD6990f449674efDc6097fF85",
+      "symbol": "VSAT",
+      "name": "ViaSat • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/vsat-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x561e2a49212b7cCF47f2744Ccb83e200722fADBc",
+      "symbol": "VST",
+      "name": "Vistra • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/vst-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x0594134DF3f171a354D9C85eBD65b7A6148F6D09",
+      "symbol": "VTI",
+      "name": "Vanguard Morningstar Total Stock Market ETF",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/vti-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x82DA4646242e1D962e96e932269Dc644c94a9CaA",
+      "symbol": "WDAY",
+      "name": "Workday • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wday-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xF52597345A8Edf418bc4071b4a35112472277D3e",
+      "symbol": "WDC",
+      "name": "Western Digital • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wdc-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x348Be1A8663f15edDe5CDf8A96BB69078f7aB6Fd",
+      "symbol": "WULF",
+      "name": "TeraWulf • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wulf-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x9e7ABD3C9139D14E4c86DcE0e455AAB7A0C2FB3E",
+      "symbol": "WYFI",
+      "name": "WhiteFiber, Inc. • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/wyfi-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x15Cd20759CE7F3285c29A319dE2D1A2e098c6f43",
+      "symbol": "XLK",
+      "name": "State Street Technology Select Sector SPDR ETF",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/xlk-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xA8eB3BCcbf2017eE7CBfb652eB51CF2E1B153289",
+      "symbol": "XNDU",
+      "name": "Xanadu Quantum • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/xndu-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
+      "symbol": "XOM",
+      "name": "ExxonMobil Holdings Corporation • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/xom-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x44c4F142009036cF477eD2d09932051843137CF1",
+      "symbol": "ZM",
+      "name": "Zoom • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/zm-robinhood.png",
+      "tags": [
+        "rwa"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x7dc013eB55e436f30d7ED1AFE4E36d6e45e3c3f7",
+      "symbol": "ZS",
+      "name": "Zscaler • Robinhood Token",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/zs-robinhood.png",
+      "tags": [
+        "rwa"
       ]
     }
   ],
-  "timestamp": "2026-10-09T00:00:00Z",
+  "timestamp": "2026-10-09T14:36:48.539Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
