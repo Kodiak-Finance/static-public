@@ -247,12 +247,21 @@
       "tags": [
         "meme"
       ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x1FE841737D302468fE8f90Bf469Ef8674daD34ED",
+      "symbol": "UPPERS",
+      "name": "UPPERS",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/uppers.png",
+      "tags": []
     }
   ],
-  "timestamp": "2026-10-13T10:33:33.725Z",
+  "timestamp": "2026-10-13T16:25:56.000Z",
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
