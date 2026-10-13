@@ -47,8 +47,7 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/weth.png",
       "tags": [
-        "major",
-        "eth"
+        "major"
       ]
     },
     {
@@ -59,7 +58,6 @@
       "decimals": 6,
       "logoURI": "https://static.kodiak.finance/tokens/usdg.png",
       "tags": [
-        "major",
         "usd"
       ]
     },
@@ -71,7 +69,7 @@
       "decimals": 8,
       "logoURI": "https://static.kodiak.finance/tokens/btc.png",
       "tags": [
-        "btc"
+        "major"
       ]
     },
     {
@@ -114,6 +112,17 @@
       "name": "syrupUSDG",
       "decimals": 6,
       "logoURI": "https://static.kodiak.finance/tokens/syrupusdg.png",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "chainId": 4663,
+      "address": "0x00000000D61733e7A393A10A5B48c311AbE8f1E5",
+      "symbol": "frxUSD",
+      "name": "Frax USD",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/frxusd.png",
       "tags": [
         "usd"
       ]
@@ -240,10 +249,10 @@
       ]
     }
   ],
-  "timestamp": "2026-10-13T08:17:24.129Z",
+  "timestamp": "2026-10-13T10:33:33.725Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
