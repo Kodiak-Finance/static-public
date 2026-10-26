@@ -191,10 +191,10 @@
   ,{"chainId": 80094, "address": "0xa744Fe3688291aC3A4a7eC917678783aD9946a1E", "symbol": "savUSD", "name": "Staked avUSD", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/savusd.png", "tags": ["usd"]}
   ,{"chainId": 80094, "address": "0xB8CD0b8E056A91c00FD388EdDb37E6E445844B21", "symbol": "COMPUTE.r", "name": "COMPUTE.r", "decimals": 18, "logoURI": "https://static.kodiak.finance/tokens/computer.png", "tags": ["rwa"]}
   ],
-  "timestamp": "2026-10-23T00:00:00Z",
+  "timestamp": "2026-10-26T00:00:00Z",
   "version": {
     "major": 27,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
